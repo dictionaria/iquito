@@ -1,32 +1,51 @@
 {
     "authors": [
-        "Author 1",
-        "Author 2",
         {
-            "name": "Author 3",
-            "affiliation": "University 1"
+            "name": "Lev Michael",
+            "affiliation": "University of California, Berkeley"
         },
         {
-            "name": "Author 4",
-            "primary": false
+            "name": "Christine Beier",
+            "affiliation": "University of California, Berkeley"
         }
     ],
     "language": {
-        "name": "insert language name here",
-        "isocode": "insert ISO 339-3 code here",
-        "glottocode": "insert glottocode here"
+        "name": "Iquito",
+        "glottocode": "iqui1243",
+        "isocode": "iqu"
     },
     "date_published": "2020",
-    "number": 11,
+    "number": 17,
+    "doi": null,
     "properties": {
         "entry_sep": "\\lx ",
-        "marker_map": {},
-        "entry_map": {},
-        "sense_map": {},
-        "example_map": {},
-        "labels": {
+        "marker_map": {
+            "lc_Iqu": "lx",
+            "lx": "lx_notused",
+            "xv_Iqu": "xv",
+            "z18": "sc",
+            "sd_Eng": "ignoreme"
         },
-        "custom_fields": []
+        "entry_map": {
+            "co_Eng": "Loanword_Source",
+            "compare": "Compare",
+            "lx_Iqu": "Root",
+            "ph_Iqu": "Pronunciation",
+            "z0": "Middle_Form",
+            "z10": "Irregular_Possessed_Form",
+            "z3_Iqu": "Derivational_Root",
+            "z9_Iqu": "Irregular_Plural",
+            "z17": "Literal_Meaning",
+            "z19": "Semantics_Note"
+        },
+        "sense_map": {
+            "na_Eng": "Anthropology_Note",
+            "ng_Eng": "Grammar_Note",
+            "ns_Eng": "Sociolinguistics_Note"
+        },
+        "link_regex": "(?<=\\{\\\\iqt\\s)[^}]+(?=\\})",
+        "process_links_in_markers": [
+            "de", "ns_Eng", "na_Eng", "na_Eng", "z19"
+        ]
     }
 }
-

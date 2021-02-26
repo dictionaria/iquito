@@ -1,5 +1,6 @@
 from collections import ChainMap
 import pathlib
+import re
 
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
