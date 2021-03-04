@@ -1010,8 +1010,8 @@ Iquito determiners agree in number and animacy with their co-occurring adjective
 <td></td>
 <td></td>
 <td>DEF-PL.ANIM</td>
-<td>two-ANIM</td>
-<td>elder-ANIM</td>
+<td>two-PL.ANIM</td>
+<td>elder-PL.ANIM</td>
 <td>person.PL</td>
 <td>3PL-live-IPFV-NON.PST</td>
 <td>here</td>
@@ -2524,7 +2524,7 @@ A subset of Iquito postpositions are morphologially complex elements that includ
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=exist-IPFV-NON.PST</td>
+<td>3GNL=be.located-IPFV-NON.PST</td>
 <td>pot=LOC:inside-LOC:below</td>
 </tr>
 
@@ -2550,7 +2550,7 @@ A subset of Iquito postpositions are morphologially complex elements that includ
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=exist-IPFV-NON.PST</td>
+<td>3GNL=be.located-IPFV-NON.PST</td>
 <td>pot=LOC:inside-LOC:above</td>
 </tr>
 
@@ -2590,7 +2590,7 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=exist-IPFV-NON.PST<td>here:general</td>
+<td>3GNL=be.located-IPFV-NON.PST<td>here:general</td>
 </tr>
 
 <tr>
@@ -2614,7 +2614,7 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=exist-IPFV-NON.PST</td><td>here:up</td></tr>
+<td>3GNL=be.located-IPFV-NON.PST</td><td>here:up</td></tr>
 
 <tr>
 <td></td>
@@ -2638,7 +2638,7 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=exist-IPFV-NON.PST</td><td>here:outside</td>
+<td>3GNL=be.located-IPFV-NON.PST</td><td>here:outside</td>
 </tr>
 
 <tr>
