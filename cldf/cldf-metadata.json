@@ -10,11 +10,13 @@
     "dc:identifier": "https://dictionaria.clld.org/contributions/iquito",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Iquito dictionary",
+    "dcat:accessURL": "git@github.com:dictionaria/iquito",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "dc:created": "e41889b"
+            "rdf:about": "git@github.com:dictionaria/iquito",
+            "dc:created": "4e9c405"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 4114,
+            "dc:extent": 4128,
             "tableSchema": {
                 "columns": [
                     {
@@ -150,7 +152,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 4768,
+            "dc:extent": 4787,
             "tableSchema": {
                 "columns": [
                     {
@@ -212,7 +214,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 980,
+            "dc:extent": 988,
             "tableSchema": {
                 "columns": [
                     {
