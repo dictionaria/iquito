@@ -17,11 +17,11 @@ The language and its speakers
 
 Iquito [iqu] is a language of the Zaparoan family; its sister languages include Andoa [anb] (also: Katsakáti), Arabela [arl], and Záparo [zro] (also: Zápara, Sápara).<a href="#ref1" id="1" data-toggle="tooltip" title="Omurano [omu] and Abishira [avs] have been classified as Zaparoan in some sources (e.g., Kaufman 1994), but because they exhibit no systematic similarities to Zaparoan languages, or to each other, they are most likely isolates (Michael et al., in prep.)."><sup>1</sup></a> Both Iquito and the Zaparoan family are critically endangered. At the time of writing in 2020, Iquito has fewer than 10 remaining fluent native speakers, the youngest of whom are in their seventies and only two of whom regularly use the language as a means of communication. As of 2011, Arabela had about 30 remaining speakers (Buenaño 2011); as of 2014, Záparo had only a few rememberers; and by 2009 Andoa had already fallen silent.<a href="#ref2" id="2" data-toggle="tooltip" title="Information on Andoa and Záparo language vitality is based on language documentation fieldwork by the compilers in the relevant communities (see Michael et al. 2009 and Beier et al. 2014 respectively)."><sup>2</sup></a> Community-oriented efforts to revitalize and revalorize Iquito (Beier & Michael 2018) and Záparo (e.g., Viatori & Ushigua 2007) are currently underway, however.
 
-Prior to encountering European diseases, missionaries, and military aggression in the late 17th century, speakers of the Zaparoan languages occupied an extensive territory in what is now northeastern Peru and eastern Ecuador. This territory spanned from the banks of the Napo River in the north to the banks of the middle Tigre River in the south and to the upper Pastaza River basin in the west (Map 1). Within this region, Iquito groups occupied a large territory between the Napo and Tigre Rivers. Iquitos’ first major sustained interaction with the invading Europeans and their descendants was with Jesuit missionaries in the 18th century, who sought to concentrate Iquitos in a number of *reducciones*, or mission settlements, in the Nanay River basin (see Map 2). After the Jesuits were expelled from South America, some Iquito  families settled near the present day location of the city of Iquitos (Grohs 1974, Uriarte 1986), through which circumstance the city later got its name.
+Prior to encountering European diseases, missionaries, and military aggression in the late 17th century, speakers of the Zaparoan languages occupied an extensive territory in what is now northwestern Peru and eastern Ecuador. This territory spanned from the banks of the Napo River in the north to the banks of the middle Tigre River in the south and to the upper Pastaza River basin in the west (Map 1). Within this region, Iquito groups occupied a large territory between the Napo and Tigre Rivers. Iquitos’ first major sustained interaction with the invading Europeans and their descendants was with Jesuit missionaries in the 18th century, who sought to concentrate Iquitos in a number of *reducciones*, or mission settlements, in the Nanay River basin (see Map 2). After the Jesuits were expelled from South America, some Iquito  families settled near the present day location of the city of Iquitos (Grohs 1974, Uriarte 1986), through which circumstance the city later got its name.
 
 <a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0167-3A72-690A-0/iquito_dictionaria_zaparoan_territory.jpg"><img alt="Map of Zaparoan homelands" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0167-3A72-690A-0/iquito_dictionaria_zaparoan_territory.jpg" width="350"/> </a>
 
-*Map 1.* Locations of the Napo, Pastaza, and Tigre Rivers, which define the historical territories of the speakers of Zaparoan languages.<a href="#ref3" id="3" data-toggle="tooltip" title="Details added by the compilers to a base map by Kmusser, 2008 (Own work using Digital Chart of the World and GTOPO data; CC BY-SA 3.0), https://commons.wikimedia.org/w/index.php?curid=4745680"><sup>3</sup></a>
+*Map 1.* Locations of the Napo, Tigre, and Pastaza Rivers, which define the historical territories of the speakers of Zaparoan languages.<a href="#ref3" id="3" data-toggle="tooltip" title="Details added by the compilers to a base map by Kmusser, 2008 (Own work using Digital Chart of the World and GTOPO data; CC BY-SA 3.0), https://commons.wikimedia.org/w/index.php?curid=4745680"><sup>3</sup></a>
 
 After a period of relative peace and liberty, Iquitos were again beset during the Rubber Boom of the late 19th and early 20th centuries, when the remaining Iquito groups were enslaved by the so-called *patrones* who controlled the local rubber trade (Santos-Granero & Barclay 2000). Through the triple impact of introduced diseases, missionization, and enslavement, an original Iquito population of roughly 5,000 was reduced to some 150 individuals by the 1920s. Yet, despite such staggering population loss, the Iquito language and many aspects of culture remained vital until the 1950s, when the combination of virulent local anti-indigenous racism and Peruvian government policies designed to ‘peruvianize’ indigenous peoples (de la Cadena 2000) — notably including aggressively anti-indigenous education policies — brought an abrupt end to natural language transmission from young parents to their children. Since the late 1950s, the number of Iquito speakers has dropped increasingly sharply, as the Iquito language has been replaced by Loretano Spanish [spq], a regional variety of Peruvian Spanish.
 
@@ -58,7 +58,7 @@ Finally, elicitation played a crucial role. Many lexical items were identified i
 
 Each field of each entry was systematically checked in structured elicitation sessions by Beier and/or Michael with one or more of our co-authors. The form of the headword and the definition were checked with a minimum of two of our co-authors, and many were checked with three or all four of them.
 
-Example sentences that were not obtained from transcribed texts were obtained via elicitation by Beier or Michael and a native speaker.
+Example sentences that were not obtained from transcribed texts were obtained via elicitation by Beier or Michael and a native speaker co-author.
 
 Finally, the lexical database underlying this dictionary was first developed in Shoebox and later imported into, and further developed with, [Fieldworks Language Explorer (FLEx)](https://software.sil.org/fieldworks/).
 
@@ -67,7 +67,7 @@ How this dictionary came about and what comes next
 
 The preparation of a reasonably comprehensive dictionary of a previously little-documented language is a long voyage, and here we briefly describe the course that has brought about the work before you, and the future trajectory we anticipate.
 
-The compilers’ engagement with the Iquito language began in 2001, when we made our first visit to the Iquito community of San Antonio de Pintuyacu, in response to reports from NGO contacts in Lima and Iquitos that the community was interested in finding linguists to assist them in responding to the endangerment of their heritage language. Community members expressed enthusiasm about the prospect of us undertaking language documentation and revitalization activities with them, and so in 2002 we returned to San Antonio and launched our work with two fellow graduate students, Mark Brown and Lynda de Jong (now Boudreault). Subsequently, we obtained three years of funding, in collaboration with Nora England as PI, from the Hans Rausing Endangered Languages Documentation Programme, which supported a team-based language documentation and revitalization project from 2003 through 2006.
+The compilers’ engagement with the Iquito language began in 2001, when we made our first visit to the Iquito community of San Antonio de Pintuyacu, in response to reports from NGO contacts in Lima and Iquitos that the community was interested in finding linguists to assist them in responding to the endangerment of their heritage language. Community members expressed enthusiasm about the prospect of us undertaking language documentation and revitalization activities with them, and so in 2002 we returned to San Antonio and launched our work with two fellow graduate students, Mark Brown and Lynda de Jong (now Boudreault). Subsequently, we obtained three years of funding, in collaboration with Nora England as PI, from the Hans Rausing Endangered Languages Documentation Programme (MDP-0042), which supported a team-based language documentation and revitalization project from 2003 through 2006.
 
 From the outset, community members identified an Iquito–Spanish dictionary as one of the most important language documentation priorities, and so, in 2006, at the end of the ELDP-funded phase of the project, we completed the *Diccionario Bilingüe Iquito–Castellano y Castellano–Iquito* (Michael et al. 2006) and distributed this first version of an Iquito dictionary to the community’s bilingual school teachers and other interested community members, as well as making it available online.
 
@@ -75,13 +75,13 @@ After a hiatus during which we were committed to work with other Amazonian langu
 
 First, we decided to change the primary language of the entries from Spanish to English and complete the dictionary in English, subsequently translating it as a whole into Spanish. Our motivation for doing this was to increase the precision of the dictionary’s definitions and notes, having recognized that, since we are not native Spanish speakers, the existing Spanish prose of the dictionary was problematic in a number of ways. Although this decision has slowed the pace at which we are able to make new Spanish versions of the dictionary available to community members and hispanophone scholars, we felt that the need for accuracy outweighed the desideratum of speed.
 
-Second, we changed the orthography used in the dictionary to reflect the new Iquito alphabet that the Peruvian Ministry of Education made official in 2014. The 2006 version of the dictionary employed an orthography that followed hispanophone orthographic conventions, and which drew considerably on the orthography developed in the early 1960s by Robert and Elizabeth Eastman, SIL missionaries who worked in the Iquito community of San Antonio for a number of years. In 2002, when we began active work with the Iquito community, community members expressed the desire to continue using this earlier orthography, and so, with minor modifications, we adopted it as the orthography for our work. In 2014, however, Peru’s Ministry of Education conducted a set of community-participatory alphabet workshops which resulted in the official adoption of a new non-hispanophone alphabet. Consequently, in that same year, we adopted this new alphabet and developed an <a href="#section8">orthography</a> based on it, with extensions for phonemes that the Ministry’s alphabet development had not addressed.
+Second, we changed the orthography (writing system) used in the dictionary to reflect the new Iquito alphabet (set of letters) that the Peruvian Ministry of Education made official in 2014. The 2006 version of the dictionary employed an orthography that followed hispanophone orthographic conventions, and which drew considerably on the orthography developed in the early 1960s by Robert and Elizabeth Eastman, SIL missionaries who worked in the Iquito community of San Antonio for a number of years. In 2002, when we began active work with the Iquito community, community members expressed the desire to continue using this earlier orthography, and so, with minor modifications, we adopted it as the orthography for our work. In 2014, however, Peru’s Ministry of Education conducted a set of community-participatory alphabet workshops which resulted in the official adoption of a new non-hispanophone alphabet. Consequently, in that same year, we adopted this new alphabet and developed a full <a href="#section8">orthography</a> based on it, with extensions for phonemes that the Ministry’s alphabet development had not addressed.
 
 And third, we redoubled our commitment to developing an adequate analysis and understanding of the Iquito prosodic system, with one of our major aims being to improve the phonological representations in the dictionary. Iquito exhibits an intricate tonal system in which tones associated with different morphological categories interact in complex ways and, in some cases, are also associated with vowel lengthening processes. Our understanding of the prosodic system at the end of the first phase of the ILDP, being only partial, led to a variety of inaccuracies in the phonological representations in the 2006 dictionary. At this point, we are satisfied that we have a good analysis and understanding of the Iquito prosodic system, which has resulted in much-improved phonological representations in this dictionary. There will inevitably be minor adjustments going forward, but we now feel confident in our overall analysis, conclusions, and representations.
 
-The preceding allusion to the future leads us to observe that if the creation of a dictionary is a lengthy voyage, the publication of the present version is but one waypoint towards the destination of documenting the Iquito lexicon to the best of our abilities, and of providing accessible lexical resources to varied communities interested in them—most obviously, Iquito community members, hispanophone scholars, and anglophone scholars. In August 2019, we released a new student dictionary (Beier et al. 2019) and distributed it to Iquito elders, leaders, and other interested community members, as well as online. This is the first widely-distributed dictionary for use by community members since the 2006 version, and it constitutes the first major output of the research that we resumed in 2014. The *Iquito–English Dictionary* published by Ediciones Abya-Yala in 2019 constituted the second output of that research, and has a scholarly target audience. This searchable online version, based on the 2019 publication, constitutes the third output. At present, we are in the midst of translating this Iquito—English dictionary into an Iquito–Spanish dictionary, which will likewise have a scholarly target audience, and which we hope to publish in the coming year, as the fourth output of our research. As the fifth output, we are preparing a reference dictionary for community use, which will be more extensive and detailed than the student dictionary, which was necessarily tailored for use by school children.
+The preceding allusion to the future leads us to observe that if the creation of a dictionary is a lengthy voyage, the publication of the present version is but one waypoint towards the destination of documenting the Iquito lexicon to the best of our abilities, and of providing accessible lexical resources to varied communities interested in them—most obviously, Iquito community members, hispanophone scholars, and anglophone scholars. In August 2019, we released a new student dictionary (Beier et al. 2019) and distributed it to Iquito elders, leaders, teachers, students, and any other interested community members, as well as online. This is the first widely-distributed dictionary for use by community members since the 2006 version, and it constitutes the first major output of the research that we resumed in 2014. The *Iquito–English Dictionary* published by Ediciones Abya-Yala in 2019 constituted the second output of that research, and has a scholarly target audience. This searchable online version, based on the 2019 publication, constitutes the third output. At present, we are in the midst of translating this Iquito—English dictionary into an Iquito–Spanish dictionary, which will likewise have a scholarly target audience, and which we hope to publish in the coming year, as the fourth output of our research. As the fifth output, we are preparing a reference dictionary for community use, which will be more extensive and detailed than the student dictionary, which was necessarily tailored for use by school children.
 
-We also intend to prepare a new edition of this Iquito–English dictionary, although we hesitate to predict when it will be ready. We anticipate the value of a new edition for a number of reasons. First, we are currently preparing a descriptive grammar of Iquito, and experience has taught us that advances in our understanding of Iquito grammar often have implications for both our understanding of the Iquito lexicon, and for our judgment of what properly belongs in lexical resources, versus what should be treated in grammatical descriptions. For example, it has only been in recent years that we have come to realize that the word class of nouns includes an important subclass that we call locative nouns (see the discussion of <a href="#section14">nouns</a> below) which merit being identified as such in the part-of-speech specifications of dictionary lemmas. We do not doubt that similar insights, with similar consequences for the documentation of the Iquito lexicon, will emerge as our grammatical research continues. Similarly, there are other areas where recent discoveries suggest that in the future we may need to revise aspects of our lexical documentation. For example, recent research has revealed that a phonological distinction exists among postpositions: some of them condition tonal shifts, a property that we associate with tightly prosodically-bound elements; while others do not, a property that we associate with prosodically independent words. In this dictionary, we treat all postpositions as enclitics, since they are indeed all phrasal enclitics, but it may be the case that in the future we will wish to differentiate between postpositions that behave like phonological clitics, and those that do not.
+We also intend to prepare a new edition of this Iquito–English dictionary, although we hesitate to predict when it will be ready. We anticipate the value of a new edition for a number of reasons. First, we are currently preparing a descriptive grammar of Iquito, and experience has taught us that advances in our understanding of Iquito grammar often have implications for both our understanding of the Iquito lexicon, and for our judgment of what properly belongs in lexical resources, versus what should be treated in grammatical descriptions. For example, it has only been in recent years that we have come to realize that the word class of nouns includes an important subclass that we call locative nouns (see the discussion of <a href="#section14">nouns</a> below) which merit being identified as such in the part-of-speech specifications of dictionary lemmas. We do not doubt that similar insights, with similar consequences for the documentation of the Iquito lexicon, will emerge as our grammatical research continues. Similarly, there are other areas where recent discoveries suggest that in the future we may need to revise aspects of our lexical documentation. For example, recent research has revealed that a phonological distinction exists among postpositions: some of them condition tonal shifts, a property that we associate with tightly prosodically-bound elements; while others do not, a property that we associate with prosodically-independent words. In this dictionary, we treat all postpositions as enclitics, since they are indeed all phrasal enclitics, but it may be the case that in the future we will wish to differentiate between postpositions that behave like phonological clitics, and those that do not.
 
 Second, for reasons of continuity with previous works written on Iquito, by ourselves as well as by others, in this edition we continue to mark only high tones in Iquito forms. However, our research over the past two years has made it clear that Iquito also exhibits low tones, resulting in a three-way tonal contrast on tone-bearing units between high, low, and null. As it turns out, the position of low tones can usually be predicted by the position of high tones (and conversely), so the current representations are not inaccurate *per se* but these representations do suffer from the drawback that determining the position of low tones on the basis of high tones requires an intimate familiarity with the complex Iquito tonal system, which is a heavy burden to place on most dictionary users. The representations in the next edition of the dictionary will mark both high and low tones, making them more surface-transparent.
 
@@ -311,15 +311,15 @@ On the basis of this alphabet, we represent the eight vowel phonemes of Iquito u
 <td>sand</td>
 </tr>
 <tr>
-<td>ki(a)</td>
-<td>kʲ(a)</td>
+<td>ki(a, aa)</td>
+<td>kʲ(a, aa)</td>
 <td>íkiaari</td>
 <td>íkʲaːɾi</td>
 <td>stunted fruit</td>
 </tr>
 <tr>
-<td>kw</td>
-<td>kʷ</td>
+<td>kw(a, aa)</td>
+<td>kʷ(a, aa)</td>
 <td>ikwani</td>
 <td>ikʷani</td>
 <td>man</td>
@@ -339,8 +339,8 @@ On the basis of this alphabet, we represent the eight vowel phonemes of Iquito u
 <td>tree</td>
 </tr>
 <tr>
-<td>ni(a)</td>
-<td>ɲ(a)</td>
+<td>ni</td>
+<td>ɲ</td>
 <td>niaatíija</td>
 <td>ɲaːtíːha</td>
 <td>mother</td>
@@ -367,8 +367,8 @@ On the basis of this alphabet, we represent the eight vowel phonemes of Iquito u
 <td>food</td>
 </tr>
 <tr>
-<td>si(V)</td>
-<td>ʃ(V)</td>
+<td>si(V, Vː)</td>
+<td>ʃ(V, Vː)</td>
 <td>kusiaamɨ</td>
 <td>kuʃaːmɨ</td>
 <td>brave</td>
@@ -395,8 +395,8 @@ On the basis of this alphabet, we represent the eight vowel phonemes of Iquito u
 <td>spirit</td>
 </tr>
 <tr>
-<td>CiV</td>
-<td>CʲV</td>
+<td>Ci(aa)</td>
+<td>Cʲ(aa)</td>
 <td>nɨtiáana</td>
 <td>nɨtʲáːna</td>
 <td>runner</td>
@@ -411,18 +411,18 @@ While the vowel graphemes are self-explanatory, a few of the consonant graphemes
 
 <ol>
 <li style="list-style-type: lower-roman">
-three graphemes associated with palatalization, &lt;ki(a), ni(a), si(V)&gt;,
+three graphemes associated with palatalization, &lt;ki(a, aa), ni(V, Vː), si(V, Vː)&gt;,
 representing the phonemes /kʲ, ɲ, ʃ/ respectively; and
 </li>
 
 <li style="list-style-type: lower-roman">
-the grapheme associated with labialization, &lt;kw&gt;, representing the phoneme /kʷ/.
+the grapheme associated with labialization, &lt;kw(a, aa)&gt;, representing the phoneme /kʷ/.
 </li>
 </ol>
 
 Beginning with the latter, the phoneme /kʷ/ has a restricted distribution, appearing only before /a, aː/. Despite this restricted distribution, there is no evidence suggesting that it should be analyzed synchronically as an underlying stop-glide sequence; or as the result of glide formation (e.g., from an underlying /kua/ sequence); or as the result of rounding harmony.<a href="#ref7" id="7" data-toggle="tooltip" title="Although some speakers do variably realize underlying /uka/ sequences as [uka]&sim;[ukʷa], this is an unrelated phenomenon."><sup>7</sup></a> (Significantly, a labialized voiceless velar stop reconstructs to Proto-Zaparoan; see Michael et al., in prep.)
 
-Turning now to the graphemes associated with palatalization, we begin by observing that there does exist a productive glide-formation process in Iquito, by which the high vowels /i, ɨ, u/ glide to /j/ (&lt;y&gt;) to avoid vowel hiatus, i.e., /CiV/ &rarr; /CʲV/. The productivity of this process is evident in cases where these vowels appear in root-final position and are followed by vowel-initial suffixes, as in (2).
+Turning now to the graphemes associated with palatalization, we begin by observing that there does exist a productive glide-formation process in Iquito, by which the high vowels /i, ɨ/ glide to /j/ (&lt;y&gt;) to avoid vowel hiatus, i.e., /Ci(a, aː)/ &rarr; /Cʲ(a,aː)/. The productivity of this process is evident in cases where these vowels appear in root-final position and are followed by vowel-initial suffixes, as in (2).
 
 <table class="unstyled">
 <tbody>
@@ -454,11 +454,11 @@ Turning now to the graphemes associated with palatalization, we begin by observi
 </tbody>
 </table>
 
-It may well have been the existence of this productive glide-formation process that led the Eastmans to represent the palatalized component of all palatalized segments as an orthographic &lt;i&gt;.<a href="#ref9" id="9" data-toggle="tooltip" title="Interestingly, this was a common feature among orthographies developed by SIL missionaries for indigenous Peruvian Amazonian languages in the 1950s and 1960s. It is unclear, on a language by language basis, and in Iquito in particular, to what degree this choice represents a commitment to the underlying, or phonemic, representation of the speech sounds in question, and to what degree this was simply a general orthographic convenience."><sup>9</sup></a> Thus, instead of adopting distinct graphemes for /kʲ, ɲ, ʃ/, they chose to represent the corresponding speech sounds as &lt;ki(a), ni(a), si(V)&gt;.
+It may well have been the existence of this productive glide-formation process that led the Eastmans to represent the palatalized component of all palatalized segments as an orthographic &lt;i&gt;.<a href="#ref9" id="9" data-toggle="tooltip" title="Interestingly, this was a common feature among orthographies developed by SIL missionaries for indigenous Peruvian Amazonian languages in the 1950s and 1960s. It is unclear, on a language by language basis, and in Iquito in particular, to what degree this choice represents a commitment to the underlying, or phonemic, representation of the speech sounds in question, and to what degree this was simply a general orthographic convenience."><sup>9</sup></a> Thus, instead of adopting distinct graphemes for /kʲ, ɲ, ʃ/, they chose to represent the corresponding speech sounds as &lt;ki, ni, si&gt;.
 
-And indeed, the glide-formation process mentioned above would yield, from an underlying /CiV/ representation, a surface sequence identical to that derived from the /kʲ/ and /ɲ/ phonemes we posit. Nevertheless, we do not opt to eliminate the /kʲ/ and /ɲ/ phonemes in favor of underlying /kiV/ and /niV/ sequences. This is due to the simple fact that, in forms where we posit such phonemes, there is never an alternation that suggests the presence of an underlying /ki/ or /ni/ sequence, which raises the question of how speakers could ever infer the presence of these hypothetical sequences. Similar observations apply for opting to retain a /ʃ/ phoneme in our inventory.
+And indeed, the glide-formation process mentioned above would yield, from an underlying /CiVː/ representation, a surface sequence identical to that derived from the /kʲ/ and /ɲ/ phonemes we posit. Nevertheless, we do not opt to eliminate the /kʲ/ and /ɲ/ phonemes in favor of underlying /ki/ and /ni/ sequences. This is due to the simple fact that, in forms where we posit such phonemes, there is never an alternation that suggests the presence of an underlying /ki/ or /ni/ sequence, which raises the question of how speakers could ever infer the presence of these hypothetical sequences. Similar observations apply for opting to retain the /ʃ/ phoneme in our inventory.
 
-Finally, in order to maintain continuity with previous Iquito written materials, in this dictionary we continue to use the existing orthographic strategy for representing /kʲ, ɲ, ʃ/ by writing palatalized segments as &lt;CiV&gt; sequences, or &lt;ki(a), ni(a), si(V)&gt; respectively.
+Finally, in order to maintain continuity with previous Iquito written materials, in this dictionary we continue to use the existing orthographic strategy for representing /kʲ, ɲ, ʃ/ by writing palatalized segments as &lt;CiVː&gt; sequences, or &lt;ki, ni, si&gt; respectively.
 
 ### Tone marking and orthography
 
@@ -503,7 +503,7 @@ In this section, we provide information that will help readers understand the ty
 
 ### Iquito parts of speech
 
-In this dictionary, we distinguish the following parts of speech: adjective, adverb, adverbial subordinator, demonstrative, determiner, grammatical clitic, interjection, interrogative, locative demonstrative adverb, locative noun, locative postposition, noun (including compound nouns), numeral, particle, postposition, pronoun (anaphoric, indefinite, person, and relative), proper noun, and verb (copular, existential, intransitive, transitive, ditransitive, and ambitransitive).
+In this dictionary, we distinguish the following parts of speech: adjective, adverb, adverbial clitic, adverbial subordinator, demonstrative, determiner, grammatical clitic, interjection, interrogative, locative demonstrative adverb, locative noun, locative postposition, noun (including compound nouns), numeral, particle, postposition, pronoun (anaphoric, indefinite, person, and relative), proper noun, and verb (copular, existential, intransitive, transitive, ditransitive, and ambitransitive).
 
 Distinctive properties of these parts of speech in Iquito and their representations in this dictionary are the focus of the discussion below.
 
@@ -726,19 +726,10 @@ Locative nouns are a subclass of nominal roots that obligatorily bear one of fiv
 </thead>
 
 <tbody>
-<tr>
-<td><i>-ku</i></td>
-<td>up, upriver, outside</td>
-</tr>
 
 <tr>
-<td><i>-ma</i></td>
-<td>down, downriver, inside</td>
-</tr>
-
-<tr>
-<td><i>-kúura</i></td>
-<td>perpendicular to river, horizontally distal</td>
+<td><i>-jina</i></td>
+<td>unspecified (default for certain locative stems)</td>
 </tr>
 
 <tr>
@@ -747,9 +738,20 @@ Locative nouns are a subclass of nominal roots that obligatorily bear one of fiv
 </tr>
 
 <tr>
-<td><i>-jina</i></td>
-<td>unspecified (default for certain locative stems)</td>
+<td><i>-ku</i></td>
+<td>up, upriver, outside</td>
 </tr>
+
+<tr>
+<td><i>-kúura</i></td>
+<td>perpendicular to river, horizontally distal</td>
+</tr>
+
+<tr>
+<td><i>-ma</i></td>
+<td>down, downriver, inside</td>
+</tr>
+
 </tbody>
 
 </table>
@@ -758,11 +760,12 @@ Locative nouns are a subclass of nominal roots that obligatorily bear one of fiv
 
 An important difference between locative nouns and non-locative nouns in Iquito is that locative nouns do not require a postposition to license them in non-core argument functions. In this respect, it appears that the locative suffix licenses its associated nominal root in much the same way that a postposition licenses a noun. Locative nouns are thus ‘self-licensing’ in a way that non-locative nouns are not. 
 
-This important difference is illustrated when we compare (12) and (13). In (12), we see the intransitive verb root *iíki-* ‘be located in a place’ accompanied by a non-core argument expressing a location. In (12a), the postposition *=sirikumaji* ‘right next to’ licenses the noun *kusi* ‘pot’. In (12b), however, no postposition appears; instead, the locative suffix *-ma* ‘LOC:down’ serves as the licenser of the nominal root *kuri-* ‘port’. In (13), we see the transitive verb root *mii-* ‘have’ followed by a direct object core argument. In (13a), the noun *kusi* ‘pot’ is the direct object licensed by the verb *mii-* ‘have’ and it does not appear with a postposition. If we compare (13b) with (13a), we see that when *kuri-* ‘port’, appears as the direct object of the same transitive verb *mii-* ‘have’ it again bears the locative suffix *-ma* ‘LOC:down’ in this core argument function, even though the locative suffix is not required here for its licensing function. Finally, we see in (13c) that it is in fact ungrammatical for a locative nominal root such as *kuri-* ‘port’ to appear without a locative suffix.
+This important difference is illustrated when we compare (12) and (13). First, in both (12a) and (12b), we see the intransitive verb root *iíki-* ‘be located in a place’ accompanied by a non-core argument expressing a location. In (12a), the postposition *=sirikumaji* ‘right next to’ licenses the noun *kusi* ‘pot’. In (12b), however, no postposition appears; instead, the locative suffix *-ma* ‘LOC:down’ serves as the licenser of the nominal root *kuri-* ‘port’.
 
 <table class="unstyled">
 
 <tbody>
+
 <tr>
 <td>(12)</td>
 <td>a.</td>
@@ -814,6 +817,15 @@ This important difference is illustrated when we compare (12) and (13). In (12),
 <td></td>
 <td colspan="2">‘She/he/it is (located down) at the port.’</td>
 </tr>
+
+</tbody>
+</table>
+
+Now, in (13a-c), we see the transitive verb root *mii-* ‘have’ followed by a direct object core argument. In (13a), the noun *kusi* ‘pot’ is the direct object licensed by the verb *mii-* ‘have’ and it does not appear with a postposition. If we compare (13b) with (13a), we see that when *kuri-* ‘port’, appears as the direct object of the same transitive verb *mii-* ‘have’ it again bears the locative suffix *-ma* ‘LOC:down’ in this core argument function, even though the locative suffix is not required here for its licensing function. Finally, we see in (13c) that it is in fact ungrammatical for a locative nominal root such as *kuri-* ‘port’ to appear without a locative suffix.
+
+<table class="unstyled">
+
+<tbody>
 
 <tr>
 <td>(13)</td>
@@ -1633,7 +1645,7 @@ Ambitransitive verbs are those that license up to two arguments, but only requir
 </tbody>
 </table>
 
-Ditransitive verbs license up to three overt arguments -- subject, direct object, and indirect object -- as exemplified in (30) and (31). While the majority require at least two overt arguments (subject and direct object), a small subset of ditransitive verbs, such as *paajúuni* ‘teach’ require only a single (subject) argument, as in (30a). When a single post-verbal, non-subject argument accompanies a ditransitive verb, ambiguity regarding the grammatical relationship of that argument may arise, as in (31a). When there are two overt post-verbal arguments, their order is not syntactically rigid, as shown in (31b-c); rather, post-verbal argument ordering is sensitive to pragmatic considerations.
+Ditransitive verbs license up to three overt arguments -- subject, direct object, and indirect object -- as exemplified in (30) and (31). While the majority require at least two overt arguments (subject and direct object), a small subset of ditransitive verbs, such as *paajúuni* ‘teach’, require only a single (subject) argument, as in (30a). When a single post-verbal, non-subject argument accompanies a ditransitive verb, ambiguity regarding the grammatical relationship of that argument may arise, as in (31a). When there are two overt post-verbal arguments, their order is not syntactically rigid, as shown in (31b-c); rather, post-verbal argument ordering is sensitive to pragmatic considerations.
 
 
 <table class="unstyled">
@@ -1660,7 +1672,7 @@ Ditransitive verbs license up to three overt arguments -- subject, direct object
 <tr>
 <td></td>
 <td></td>
-<td>‘She is teaching.’</td>
+<td>‘S/he is teaching.’</td>
 </tr>
 
 </tbody>
@@ -1692,7 +1704,7 @@ Ditransitive verbs license up to three overt arguments -- subject, direct object
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">‘She is teaching me.’</td>
+<td colspan="2">‘S/he is teaching me.’</td>
 </tr>
 
 </tbody>
@@ -1726,7 +1738,7 @@ Ditransitive verbs license up to three overt arguments -- subject, direct object
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">‘She is teaching me weaving (to weave).’</td>
+<td colspan="3">‘S/he is teaching me weaving (to weave).’</td>
 </tr>
 
 </tbody>
@@ -1875,7 +1887,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 </tr>
 
 <tr>
-<td>v́</td>
+<td>V́</td>
 <td>indicates the /H/ of a fixed /HLL/ tonal melody that is expressed on the mora preceding its associated morpheme.</td>
 </tr>
 
@@ -1938,7 +1950,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td></td>
 <td></td>
 <td></td>
-<td>-v́kiaakɨ<sup>#LL</sup></td>
+<td>-V́kiaakɨ<sup>#LL</sup></td>
 <td>following a long vowel</td>
 </tr>
 
@@ -1979,7 +1991,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td>Imperfective</td>
 <td>none</td>
 <td>-yaa</td>
-<td>/vv/-final stem</td>
+<td>/Vː/-final stem</td>
 </tr>
 
 <tr>
@@ -2006,8 +2018,8 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <tr>
 <td>Perfective</td>
 <td>immediate transition between two states</td>
-<td>-v́rɨɨ</td>
-<td>toneless /vv/-final stem</td>
+<td>-V́rɨɨ</td>
+<td>toneless /Vː/-final stem</td>
 </tr>
 
 <tr>
@@ -2021,7 +2033,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td>Perfective</td>
 <td>slower transition between two states</td>
 <td>-yaárɨɨ</td>
-<td>/vv/-final stem</td>
+<td>/Vː/-final stem</td>
 </tr>
 
 <tr>
@@ -2073,7 +2085,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td>Do then go OR do going</td>
 <td></td>
 <td>-yaárɨɨ</td>
-<td>/vv/-final stem</td>
+<td>/Vː/-final stem</td>
 </tr>
 
 <tr>
@@ -2086,8 +2098,8 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <tr>
 <td>Do in passing deictic center</td>
 <td></td>
-<td>-v́rɨɨ</td>
-<td>toneless /vv/-final stem</td>
+<td>-V́rɨɨ</td>
+<td>toneless /Vː/-final stem</td>
 </tr>
 
 <tr>
@@ -2337,7 +2349,7 @@ While Iquito demonstrates a wide range of semantic distinctions in its clause-li
 
 <tr>
 <td></td>
-<td colspan="4">‘He is walking haltingly because he is afraid.’</td>
+<td colspan="4">‘S/he is walking haltingly because he is afraid.’</td>
 </tr>
 
 </tbody>
@@ -2450,52 +2462,78 @@ Iquito exhibits a set of about 60 postpositions, all of which are NP enclitics, 
 <tr>
 <td>(38)</td>
 <td>a.</td>
-<td colspan="2"><i>Nu=iíkwaki.</i></td>
+<td colspan="2"><i>Na=iíkwaki.</i></td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Nu=iíkwa-Ø-ki</td>
+<td colspan="2">Na=iíkwa-Ø-ki</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">3GNL=go-PFV-NON.PST</td>
+<td colspan="2">3PL=go-PFV-NON.PST</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">‘He went (earlier today).’</td>
+<td colspan="2">‘They went (earlier today).’</td>
 </tr>
 
 
 <tr>
 <td></td>
 <td>b.</td>
-<td colspan="2"><i>Nu=iíkwaki nuu=ánuura.</i></td>
+<td colspan="2"><i>Na=iíkwaki naa=ánuura.</i></td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>Nu=iíkwa-Ø-ki</td>
-<td>nuu=ánuura</td>
+<td>Na=iíkwa-Ø-ki</td>
+<td>naa=ánuura</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=go-PFV-NON.PST</td>
-<td>3GNL=toward</td>
+<td>3PL=go-PFV-NON.PST</td>
+<td>3PL=toward</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">‘He went toward him (earlier today).’</td>
+<td colspan="2">‘They went toward them (earlier today).’</td>
+</tr>
+
+<tr>
+<td></td>
+<td>c.</td>
+<td colspan="2"><i>Na=iíkwaki naa=jata.</i></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Na=iíkwa-Ø-ki</td>
+<td>naa=jata</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>3PL=go-PFV-NON.PST</td>
+<td>3PL=with</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">‘They went with them (earlier today).’</td>
 </tr>
 
 </tbody>
@@ -2503,7 +2541,7 @@ Iquito exhibits a set of about 60 postpositions, all of which are NP enclitics, 
 
 **Locative postpositions**
 
-A subset of Iquito postpositions are morphologially complex elements that include spatial semantics. They obligatorily bear the same locative suffixes borne by locative nouns, as in (39). Like locative nouns, most locative postpositions exhibit a ‘default’ form, which serves as its citation form; the root consists of the citation form stripped of its locative suffix.
+A subset of Iquito postpositions are morphologially complex elements that include spatial semantics. They obligatorily bear the same locative suffixes borne by locative nouns, as exemplified in (39). Like locative nouns, most locative postpositions exhibit a ‘default’ form, which serves as its citation form; the root consists of the citation form stripped of its locative suffix.
 
 <table class="unstyled">
 <tbody>
@@ -2802,9 +2840,9 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 
 Those consultants who have most actively used Iquito throughout their adult life, and who, probably not coincidentally, exhibit the least purist language ideologies, liberally employ loanwords from Spanish, and to a lesser degree, Quechua, to refer to a wide range of introduced items and concepts with which Iquito speakers became familiar over the course of the 19th and 20th centuries. Ideologies of language purism are strong among some Iquito speakers, however, as well as among some other Iquito community members, and these individuals often react negatively to the appearance of identifiable loanwords in spoken Iquito, and even more so in written materials.
 
-In acknowledgement of these concerns about the use of loanwords, we have been conservative in the number of loanwords we have included in the dictionary. Our decisions about which loanwords to include are based on a number of criteria: 1) they are clearly not ‘nonce loans’, but are rather long-established loans; 2) there is no conventionalized and widely-used non-loan Iquito counterpart; and 3) they are frequent even in the speech of relatively purist speakers.<a href="#ref12" id="12" data-toggle="tooltip" title="That is to say, frequent in the speech of these speakers when they are not closely monitoring their own speech for the use of loanwords. When these speakers are being especially vigilant, they tend to substitute either nonce Iquito neologisms or employ periphrasis to avoid the use of the loanword."><sup>12</sup></a>
+In acknowledgement of these concerns about the use of loanwords, we have been conservative in the number of loanwords we have included in the dictionary. Our decisions about which loanwords to include are based on a number of criteria: 1) they are clearly not ‘nonce loans’ but rather are long-established loans; 2) there is no conventionalized and widely-used non-loan Iquito counterpart; and 3) they are frequent even in the speech of relatively purist speakers.<a href="#ref12" id="12" data-toggle="tooltip" title="That is to say, frequent in the speech of these speakers when they are not closely monitoring their own speech for the use of loanwords. When these speakers are being especially vigilant, they tend to substitute either nonce Iquito neologisms or employ periphrasis to avoid the use of the loanword."><sup>12</sup></a>
 
-Moreover, we have sought to include loans that yield some insight into the linguistic or social history of the Iquito people. For example, the use of native Iquito words versus loanwords within the set of cultigens known to modern Iquitos gives us insight into what cultigens were raised by Iquitos prior to intense contact with mestizos in the late 19th and early 20th centuries, and which were introduced as a result of that contact. Similarly, the set of animals, fish, and plants with native Iquito names, versus names borrowed from Spanish or other indigenous languages, yields clues regarding the traditional habitat in which the Iquito people lived (that is to say, in headwaters regions, away from large rivers).
+Moreover, we have sought to include loans that yield some insight into the linguistic or social history of the Iquito people. For example, the use of native Iquito words versus loanwords within the set of cultigens known to modern Iquitos gives us insight into what cultigens were raised by Iquitos prior to intense contact with mestizos in the late 19th and early 20th centuries, and which ones were introduced as a result of that contact. Similarly, the set of animals, fish, and plants with native Iquito names, versus names borrowed from Spanish or other indigenous languages, yields clues regarding the traditional habitat in which the Iquito people lived (that is to say, in headwaters regions, away from large rivers).
 
 **Grammar notes**
 
@@ -2880,9 +2918,9 @@ There are at least two clear sources of variation in the Iquito lexicon. First, 
 
 The identification of this dialectal variation is considerably complicated in the current day, however, by the fact that the 20th century saw the consolidation of Iquitos from all of these sub-groups into a small number of settlements, resulting in considerable dialect mixing. In addition, the current small total number of speakers exacerbates the difficulty of determining whether particular forms should be considered dialectal variants *per se*, by virtue of being historically associated with particular sub-groups; or whether they should be understood as sub-dialectal variants; or conversely, whether they participated historically in isoglosses spanning more than one dialect. In short, it is now challenging to understand how modern variation among a small number of individuals relates to historical forms of variation between, within, and across the dialect groups. We return to this point below.
 
-A second source of variation in the Iquito lexical data are ongoing sound changes, the most striking being the loss of onsetless word-initial vowels.<a href="#ref14" id="14" data-toggle="tooltip" title="It is worth noting that the same process affected Arabela, one of Iquito’s sister languages, such that all Arabela roots and affixes are now consonant-initial."><sup>14</sup></a> This process appears to be operating by lexical diffusion, so that some forms are unaffected, while other forms exhibit inter-speaker and/or intra-speaker variation in the presence of their initial vowels. (Others, we may assume, have by now entirely lost their initial vowels.)
+A second source of variation in the Iquito lexical data are ongoing sound changes, the most striking being the loss of onsetless word-initial vowels.<a href="#ref14" id="14" data-toggle="tooltip" title="It is worth noting that the same process affected Arabela, one of Iquito’s sister languages, such that all Arabela roots and affixes are now consonant-initial."><sup>14</sup></a> This process appears to be operating by lexical diffusion, so that some forms are unaffected, while other forms exhibit inter-speaker and/or intra-speaker variation in the presence of their initial vowels. (Other forms, we may assume, have by now entirely lost their initial vowels.)
 
-These two sources of variation do not account for all variation in the data however, and at this point it becomes even more challenging to accurately characterize the basis of the variation. For example, if we compare certain forms produced by our two main male consultants, Hermenegildo Díaz Cuyasa (HDC) and Jaime Pacaya Inuma (JPI), with those produced by our main female consultant, Ema Llona Yareja (ELY), we find that the men’s forms exhibit certain types of sporadic and restricted vowel harmony. Significantly, the nature of this sporadic vowel harmony is often different between the two men. Similarly, a small but noticeable number of JPI’s forms exhibit /a/ where all other speakers exhibit /ɨ/ (e.g., *jaátaaraata* ~ *jɨɨ́taaraata*).
+These two sources of variation do not account for all variation in the data however, and at this point it becomes even more challenging to accurately characterize the basis of the variation. For example, if we compare certain forms produced by our two main male consultants, Hermenegildo Díaz Cuyasa (HDC) and Jaime Pacaya Inuma (JPI), with those produced by our main female consultant, Ema Llona Yareja (ELY), we find that the men’s forms exhibit certain types of sporadic and restricted vowel harmony. Significantly, the nature of this sporadic vowel harmony is often different between the two men. Similarly, a small but noticeable number of JPI’s forms exhibit /a, aː/ where all other speakers exhibit /ɨ, ɨː/ (e.g., *jaátaaraata* ~ *jɨɨ́taaraata*).
 
 Since variability is a symptom of language obsolescence (Campbell & Muntzel 1989), it may be tempting to ascribe this and some other forms of lexical variation to the attrition of lexical knowledge. While this is no doubt a factor to some degree, many of the relevant variants are recognized by other speakers as stable over decades in the speech of particular individuals, and although idiosyncratic to a certain degree, this pattern is not clearly attributable to obsolescence-induced instability in lexical knowledge. In fact, consultants explain many cases of this smaller scale variation as due to the influence of a particular individual in their childhood, who used the forms in question. And in some cases, speakers attribute particular variants not to dialect groups, as discussed above, but to particular families. It seems clear, then, that there was some degree of systematic variation associated with families, and with particular individuals who may have been the last survivors of particular family lines.<a href="#ref15" id="15" data-toggle="tooltip" title="JPI’s grandmother Piírnaja, for example, who raised him after his mother died when JPI was a young child, seems to have been the last member of her Iíjakawɨɨ́raana family line, and she had significant influence on JPI’s language acquisition."><sup>15</sup></a> Family-group-based linguistic variation is not entirely surprising, given that the traditional Iquito settlement pattern was likewise family-group based, with such groups typically living several hours to several days of travel from their nearest neighbors. That family groups may have been a relevant unit of variation is also unsurprising given that the sociolinguistic and demographic circumstances of the late 19th century represent a massive collapse in terms of numbers and social organization in comparison to the state of Iquito society in the early 18th century, when Iquito people first came into contact with Europeans and mestizos through Jesuit missionary activity and their creation of *reducciones* in, and bordering on, Iquito territory. As such, it might be expected that family groups — which by the late 19th century were absorbed into one of the five sub-groups enumerated above — represented fragments of pre-contact Iquito linguistic diversity.
 
@@ -2917,7 +2955,7 @@ Like other Amazonian languages, the part of the Iquito lexicon that is devoted t
 
 At the same time, we provide relevant local Spanish ethnobiological terminology in the definition of Iquito ethnobiological terms whenever possible, since these will be useful to users of the dictionary who seek to relate Iquito terms to ethnobiological terminology used in Loreto, and in Peruvian Amazonia more generally. Note, however, that some variation in Spanish ethnobiological terminology exists even within Loreto, let alone within the considerably greater region of Peruvian Amazonia as a whole. Appropriate caution should be taken, therefore, in the interpreting Spanish ethnobiological terminology given in this dictionary with respect to how these terms are used outside of Iquito territory. The information that we provide in the <a href="#section23">Loretano Spanish Glossary</a> will be helpful in this regard.
 
-Linking Iquito ethnobiological terms with scientific nomenclature for species, genera, families, and other groupings of life forms has proceeded in two main ways. The first is direct identification of species by working with Iquito language specialists and using a set of converging methodologies, including visual identification using field guides, auditory identification using recordings of vocalizations, and the use of natural history descriptions for disambiguation.<a href="#ref18" id="18" data-toggle="tooltip" title="This methodology is described in detail in Michael & Jernigan (in prep.)."><sup>18</sup></a>
+Linking Iquito ethnobiological terms with scientific nomenclature for species, genera, families, and other groupings of life forms has proceeded in two main ways. The first is direct identification of species by working with Iquito language specialists and using a set of converging methodologies, including visual identification using field guides, auditory identification using recordings of vocalizations, and the use of natural history descriptions for disambiguation.<a href="#ref18" id="18" data-toggle="tooltip" title="This methodology is described in detail in Michael & Jernigan, in prep."><sup>18</sup></a>
 
 The second major methodology is to employ available works that relate local Spanish names to scientific names. In this respect we have been fortunate in that the nearby city of Iquitos has for many decades been a major base and staging area for zoological and botanical research in Amazonia. One consequence of this has been the publication of a large number of scientific works that provide local Spanish equivalents used in the Iquitos area for species discussed and identified in the works in question (see <a href="#section22">below</a>). By obtaining local Spanish equivalents to Iquito ethnobiological terms and then consulting works like these, we obtain important clues regarding the scientific names corresponding to Iquito ethnobiological terms. This has proved especially valuable in the case of Iquito ethnobiological terms for plants and fish, which have been more difficult for us to identify via more direct methods than mammals, birds, reptiles, and amphibians have.
 
@@ -3193,7 +3231,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>paña</b></td>
 <td>noun</td>
-<td>General term for piranhas, predatory fish of the families <i>Characidae</i> and <i>Serrasalmidae</i>i>, but especially smaller species of the genera <i>Serrasalmus</i> and <i>Pygocentrus</i>.</td>
+<td>General term for piranhas, predatory fish of the families <i>Characidae</i> and <i>Serrasalmidae</i>, but especially smaller species of the genera <i>Serrasalmus</i> and <i>Pygocentrus</i>.</td>
 </tr>
 
 <tr>
@@ -3235,13 +3273,13 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>pijuayo</b> (also <b>pifayo</b>)</td>
 <td>noun</td>
-<td><i>Bactris gasipaes</i> or Peach Palm, a palm traditionally of great importance to many Amazonian Indigenous peoples for both its wood and its oily, savory fruits, which can form an important part of the diet of Amazonian peoples during the months when they are in season. In Iquito territory, these somewhat ovoid fruits measure 5–8 cm diameter, and they have a dense and mealy flesh surrounding a small hard seed. The dark wood of the spine-covered trunk is especially tough, strong, and heavy, and traditionally served to make bows, spears, and other implements.</td>
+<td><i>Bactris gasipaes</i> or Peach Palm, a palm traditionally of great importance to many Amazonian Indigenous peoples for both its wood and its oily, savory fruits, which can form an important part of the diet of Amazonian peoples during the months when they are in season. In Iquito territory, these somewhat ovoid fruits measure 4–8 cm diameter, and they have a dense and mealy flesh surrounding a small hard seed. The dark wood of the spine-covered trunk is especially tough, strong, and heavy, and traditionally served to make bows, spears, and other implements.</td>
 </tr>
 
 <tr>
 <td><b>piripiri</b></td>
 <td>noun</td>
-<td>A term used in Peruvian Amazonia for certain types of plants, generally of the genus <i>Cyperus</i>, whose roots are said to have medicinal or magical powers, such as the ability to confer hunting luck on its users.</td>
+<td>A term used in Peruvian Amazonia for certain types of plants, generally of the genus <i>Cyperus</i>, whose roots and rhizomes are said to have medicinal or magical powers, such as the ability to confer hunting luck on its users.</td>
 </tr>
 
 <tr>
@@ -3307,7 +3345,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>tahuampa</b></td>
 <td>noun</td>
-<td>An area of inundated forest; these are low-lying areas that flood at the height of the wet season, at which time they become important areas for fishing, as fish are drawn to them to forage on plant matter to which they now have access.</td>
+<td>An area of inundated forest. These are low-lying areas that flood at the height of the wet season, at which time they become important areas for fishing, as fish are drawn to them to forage on plant matter to which they now have access.</td>
 </tr>
 
 <tr>
@@ -3325,7 +3363,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>ungurahui</b></td>
 <td>noun</td>
-<td><i>Jessenia bataua</i>, species of palm valued for its dark purplish fruits. The fruits are roughly the shape of olives, measure some 7cm long, and have a thin brittle shell below which lies a thin layer of purplish, oily flesh, which in turn surrounds a large seed.</td>
+<td><i>Jessenia bataua</i>, species of palm valued for its dark purplish fruits. The fruits are roughly the shape of olives, measure some 3-4 cm long, and have a thin brittle shell below which lies a thin layer of purplish, oily flesh, which in turn surrounds a large seed.</td>
 </tr>
 
 <tr>
@@ -3397,7 +3435,7 @@ The current work drew considerably on an earlier Iquito–Spanish bilingual dict
 
 Our work has been supported and facilitated by many other people. In particular, Nora England, at the University of Texas at Austin, made it possible to launch the ILDP as a long-term, multi-researcher project by joining us as PI on an Endangered Languages Documentation Programme grant (see below) while we were still graduate students, and she provided invaluable methodological and practical advice throughout the first phase of the ILDP.
 
-Gabel Sotíl García, at the *Universidad Nacional de la Amazonía Peruana* in Iquitos, played a crucial role in the administration of the ILDP in its early years, and has been a source of valuable guidance and enthusiastic support for our community-oriented work. Gustavo Solís Fonseca and Elsa Vílchez Jiménez of the *Centro de Investigación de la Lingüística Aplicada* at the *Universidad Nacional Mayor de San Marcos* (UNMSM) also provided essential support in the ILDP’s early years.
+Gabel Sotíl García, at the *Universidad Nacional de la Amazonía Peruana* in Iquitos, played a crucial role in the administration of the ILDP in its early years, and has been a source of valuable guidance and enthusiastic support for our community-oriented work. Gustavo Solís Fonseca and Elsa Vílchez Jiménez of the *Centro de Investigación de la Lingüística Aplicada* at the *Universidad Nacional Mayor de San Marcos* (UNMSM) in Lima also provided essential support in the ILDP’s early years.
 
 We also want to express our sincerest thanks to Joel Sherzer and Tony Woodbury for giving us unusual latitude while we were graduate students at UT–Austin, and allowing us to launch the ILDP in parallel with our dissertation projects, as well as for all of their advice, wisdom, and encouragement in all of our projects.
 
@@ -3457,7 +3495,7 @@ Footnotes
 
 <a href="#17" id="ref17"><sup>17</sup></a> Unfortunately, we have not included any specific variants for Ligia Inuma Inuma because she passed away before we began keeping track of individual variants.
 
-<a href="#18" id="ref18"><sup>18</sup></a> This methodology is described in detail in Michael & Jernigan (in prep.).
+<a href="#18" id="ref18"><sup>18</sup></a> This methodology is described in detail in Michael & Jernigan, in prep.
 
 
 References
