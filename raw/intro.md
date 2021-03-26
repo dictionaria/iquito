@@ -299,105 +299,105 @@ On the basis of this alphabet, we represent the eight vowel phonemes of Iquito u
 <tr>
 <td>j</td>
 <td>h</td>
-<td>járaki</td>
+<td><i>járaki</i></td>
 <td>háɾaki</td>
 <td>firewood</td>
 </tr>
 <tr>
 <td>k</td>
 <td>k</td>
-<td>kakuti</td>
+<td><i>kakuti</i></td>
 <td>kakuti</td>
 <td>sand</td>
 </tr>
 <tr>
 <td>ki(a, aa)</td>
 <td>kʲ(a, aa)</td>
-<td>íkiaari</td>
+<td><i>íkiaari</i></td>
 <td>íkʲaːɾi</td>
 <td>stunted fruit</td>
 </tr>
 <tr>
 <td>kw(a, aa)</td>
 <td>kʷ(a, aa)</td>
-<td>ikwani</td>
+<td><i>ikwani</i></td>
 <td>ikʷani</td>
 <td>man</td>
 </tr>
 <tr>
 <td>m</td>
 <td>m</td>
-<td>mɨɨsaji</td>
+<td><i>mɨɨsaji</i></td>
 <td>mɨːsahi</td>
 <td>woman</td>
 </tr>
 <tr>
 <td>n</td>
 <td>n</td>
-<td>náana</td>
+<td><i>náana</i></td>
 <td>náːna</td>
 <td>tree</td>
 </tr>
 <tr>
 <td>ni</td>
 <td>ɲ</td>
-<td>niaatíija</td>
+<td><i>niaatíija</i></td>
 <td>ɲaːtíːha</td>
 <td>mother</td>
 </tr>
 <tr>
 <td>p</td>
 <td>p</td>
-<td>pikana</td>
+<td><i>pikana</i></td>
 <td>pikana</td>
 <td>wet</td>
 </tr>
 <tr>
 <td>r</td>
 <td>ɾ</td>
-<td>irisina</td>
-<td>iɾiʃina</td>
+<td><i>irísina</i></td>
+<td>iɾíʃina</td>
 <td>hard</td>
 </tr>
 <tr>
 <td>s</td>
 <td>s</td>
-<td>asasana</td>
+<td><i>asasana</i></td>
 <td>asasana</td>
 <td>food</td>
 </tr>
 <tr>
 <td>si(V, Vː)</td>
 <td>ʃ(V, Vː)</td>
-<td>kusiaamɨ</td>
+<td><i>kusiaamɨ</i></td>
 <td>kuʃaːmɨ</td>
 <td>brave</td>
 </tr>
 <tr>
 <td>t</td>
 <td>t</td>
-<td>iita</td>
+<td><i>iita</i></td>
 <td>iːta</td>
 <td>house</td>
 </tr>
 <tr>
 <td>w</td>
 <td>w</td>
-<td>áwaku</td>
+<td><i>áwaku</i></td>
 <td>áwaku</td>
 <td>finger</td>
 </tr>
 <tr>
 <td>y</td>
 <td>j</td>
-<td>nawɨyini</td>
+<td><i>nawɨyini</i></td>
 <td>nawɨjini</td>
 <td>spirit</td>
 </tr>
 <tr>
 <td>Ci(aa)</td>
 <td>Cʲ(aa)</td>
-<td>nɨtiáana</td>
+<td><i>nɨtiáana</i></td>
 <td>nɨtʲáːna</td>
 <td>runner</td>
 </tr>
@@ -441,7 +441,7 @@ Turning now to the graphemes associated with palatalization, we begin by observi
 
 <tr>
 <td></td>
-<td>3GNL=say-IPFV-REC.PST<a href="#ref8" id="8" data-toggle="tooltip" title="Abbreviations used throughout this discussion: 1/2/3 persons, (adj.) adjective, (adj.rt.) adjective root, ADJR adjectivizer, (adv.) adverb, ANIM animate, COP copula, DEF definite, DEM demonstrative, DET determiner, DRV derivational root, EV.NOMZ event nominalizer, EXCL exclusive of addressee, GNL general number/animacy, IMM.PFV immediate perfective aspect, INAN inanimate, INCL inclusive of addressee, INDEF indefinite determiner, IPFV imperfective aspect, LOC locative, (n.) noun, NOMZ nominalizer, NON.PST nonpast tense, PFV general perfective aspect, PL plural, POSS possessed form, PROX proximal, PTCPL participializer, PURP purpose, REC.PST recent past tense, REL.PRO relative pronoun, SBD subordinate clause marker, SG singular, (v.) verb."><sup>8</sup></a></td>
+<td>3GNL=say-IPFV-REC.PST<a href="#ref8" id="8" data-toggle="tooltip" title="Abbreviations used throughout this discussion: 1/2/3 persons, ADJR adjectivizer, ANIM animate, COP copula, DEF definite, DEM demonstrative, DET determiner, DRV derivational root, EV.NOMZ event nominalizer, EXCL exclusive, GNL general number/animacy, IMM.PFV immediate perfective aspect, INAN inanimate, INCL inclusive, INDEF indefinite determiner, IPFV imperfective aspect, LOC locative, NOMZ nominalizer, NON.PST nonpast tense, PFV general perfective aspect, PL plural, POSP postposition, POSS possessed form, PROX proximal, PTCPL participializer, PURP purpose, REC.PST recent past tense, REL.PRO relative pronoun, SBD subordinate clause marker, SG singular.."><sup>8</sup></a></td>
 <td></td>
 </tr>
 
@@ -458,7 +458,7 @@ It may well have been the existence of this productive glide-formation process t
 
 And indeed, the glide-formation process mentioned above would yield, from an underlying /CiVː/ representation, a surface sequence identical to that derived from the /kʲ/ and /ɲ/ phonemes we posit. Nevertheless, we do not opt to eliminate the /kʲ/ and /ɲ/ phonemes in favor of underlying /ki/ and /ni/ sequences. This is due to the simple fact that, in forms where we posit such phonemes, there is never an alternation that suggests the presence of an underlying /ki/ or /ni/ sequence, which raises the question of how speakers could ever infer the presence of these hypothetical sequences. Similar observations apply for opting to retain the /ʃ/ phoneme in our inventory.
 
-Finally, in order to maintain continuity with previous Iquito written materials, in this dictionary we continue to use the existing orthographic strategy for representing /kʲ, ɲ, ʃ/ by writing palatalized segments as &lt;CiVː&gt; sequences, or &lt;ki, ni, si&gt; respectively.
+Finally, in order to maintain continuity with previous Iquito written materials, in this dictionary we continue to use the existing orthographic strategy for representing /kʲ, ɲ, ʃ/ by writing palatalized segments as &lt;Ci&gt; sequences, or &lt;ki, ni, si&gt; respectively.
 
 ### Tone marking and orthography
 
@@ -617,7 +617,7 @@ If a lexeme exhibits an irregular plural form, we provide this form in the *Irre
 <tr>
 <td></td>
 <td></td>
-<td>‘food in general’</td>
+<td>‘food (unpossessed)’</td>
 </tr>
 
 <tr>
@@ -888,7 +888,7 @@ Now, in (13a-c), we see the transitive verb root *mii-* ‘have’ followed by a
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Target: ‘She/he/it has a port.’</td>
+<td colspan="2">Intended: ‘She/he/it has a port.’</td>
 </tr>
 
 </tbody>
@@ -902,7 +902,7 @@ Number and animacy are marked in noun phrases via a set of three suffixes:  *-na
 
 **Determiners**
 
-Iquito has a relatively large set of **determiners** — specifically, adnominal elements that establish the ‘givenness’ of the nominal element they accompany — that express both a three-way contrast in number and animacy, discussed in the previous section, and a three-way contrast in spatial reference. The set of determiners is given in Table 6.
+Iquito has a relatively large set of **determiners** — specifically, adnominal elements that establish the contextual uniqueness of the nominal element they accompany — that express both a three-way contrast in number and animacy, discussed in the previous section, and a three-way contrast in spatial reference. The set of determiners is given in Table 6.
 
 <table class= "table table-bordered">
 
@@ -996,7 +996,7 @@ Iquito has a relatively large set of **determiners** — specifically, adnominal
 
 *Table 6.* Iquito determiners
 
-Iquito determiners agree in number and animacy with their co-occurring adjectives and nouns. Exhaustive morphological marking of plurality, as in (14a), is common. However, because ‘general’ number and animacy are semantically compatible with either singular or plural referents, as well as with either animate or inanimate ones, non-canonical morphological marking often occurs, in two ways. First, it is possible for any one of the three number/animacy markers to occur on a target determiner (or other adnominal) whose controller lacks overt plural marking, as in (14b&c). Second, ‘generalʼ *-na* may co-occur with either plural, *-mi* or *-pɨ*, as in (14c), depending on discourse context.
+Iquito determiners agree in number and animacy with their co-occurring adjectives and nouns. Exhaustive morphological marking of plurality, as in (14a), is common. However, because ‘general’ number and animacy are semantically compatible with either singular or plural referents, as well as with either animate or inanimate ones, mismatches in the forms of agreement suffixes may occur, in two ways. First, it is possible for any one of the three number/animacy markers to occur on a target determiner (or other adnominal) whose controller lacks overt plural marking, as in (14b&c). Second, ‘generalʼ *-na* may co-occur with either plural, *-mi* or *-pɨ*, as in (14c), depending on discourse context.
 
 <table class= "unstyled">
 <tbody>
@@ -1140,7 +1140,7 @@ Note that the forms *iina, iimi* and *iipɨ* in fact have multiple functions in 
 
 <tr>
 <td></td>
-<td colspan="4">Givenness function: ‘The woman (who I have in mind) lives here.’</td>
+<td colspan="4">Contextual uniqueness function: ‘The woman (who I have in mind) lives here.’</td>
 </tr>
 
 <tr>
@@ -1918,23 +1918,23 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td>Non-past</td>
 <td>from sundown yesterday through future (pre-hodiernal)</td>
 <td>none</td>
-<td>-ki</td>
-<td>following a short vowel</td>
+<td><i>-ki</i></td>
+<td>/V/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>-ø<sup>HLL#</sup></td>
-<td>following a long vowel</td>
+<td><i>-ø<sup>HLL#</sup></i></td>
+<td>/Vː/-final stem</td>
 </tr>
 
 <tr>
 <td>Recent past</td>
 <td>‘relatively recently’ through sundown yesterday</td>
 <td>none</td>
-<td>-kura<sup>HLL</sup></td>
+<td><i>-kura<sup>HLL</sup></i></td>
 <td>all</td>
 </tr>
 
@@ -1942,32 +1942,32 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td>Remote past</td>
 <td>‘relatively long ago’</td>
 <td>general perfective</td>
-<td>-kiaakɨ<sup>HLL</sup></td>
-<td>following a short vowel</td>
+<td><i>-kiaakɨ<sup>HLL</sup></i></td>
+<td>/V/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>-V́kiaakɨ<sup>#LL</sup></td>
-<td>following a long vowel</td>
+<td><i>-V́kiaakɨ<sup>#LL</sup></i></td>
+<td>/Vː/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
 <td>imperfective</td>
-<td>-aárikɨ<sup>#LL</sup></td>
-<td>following a short vowel: replaces final /a, u/ but palatalizes final /i, ɨ/</td>
+<td><i>-aárikɨ<sup>#LL</sup></i></td>
+<td>/V/-final stem: deletes final /a, u/ but palatalizes final /i, ɨ/</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>-yaárikɨ<sup>#LL</sup></td>
-<td>following a long vowel</td>
+<td><i>-yaárikɨ<sup>#LL</sup></i></td>
+<td>/Vː/-final stem</td>
 </tr>
 </tbody>
 
@@ -1990,57 +1990,57 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <tr>
 <td>Imperfective</td>
 <td>none</td>
-<td>-yaa</td>
+<td><i>-yaa</i></td>
 <td>/Vː/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>-aa</td>
-<td>/a/-final stem: replaces stem-final vowel</td>
+<td><i>-aa</i></td>
+<td>/a/-final stem: deletes stem-final vowel</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>-ii</td>
-<td>/i, ɨ, u/-final stem: replaces stem-final vowel</td>
+<td><i>-ii</i></td>
+<td>/i, ɨ, u/-final stem: deletes stem-final vowel</td>
 </tr>
 
 <tr>
 <td>Perfective</td>
 <td>none (‘general’)</td>
-<td>-Ø</td>
+<td><i>-Ø</i></td>
 <td>all</td>
 </tr>
 
 <tr>
 <td>Perfective</td>
 <td>immediate transition between two states</td>
-<td>-V́rɨɨ</td>
+<td><i>-V́rɨɨ</i></td>
 <td>toneless /Vː/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>-rɨɨ (always toneless)</td>
+<td><i>-rɨɨ</i> (always toneless)</td>
 <td>elsewhere</td>
 </tr>
 
 <tr>
 <td>Perfective</td>
 <td>slower transition between two states</td>
-<td>-yaárɨɨ</td>
+<td><i>-yaárɨɨ</i></td>
 <td>/Vː/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>-aárɨɨ</td>
-<td>/v/-final stem: replaces stem-final /a, u/ but palatalizes stem-final /i, ɨ/</td>
+<td><i>-aárɨɨ</i></td>
+<td>/V/-final stem: deletes stem-final /a, u/ but palatalizes stem-final /i, ɨ/</td>
 </tr>
 
 <tr>
@@ -2070,63 +2070,63 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <tr>
 <td>Arrive then do</td>
 <td></td>
-<td>-sawɨɨ</td>
+<td><i>-sawɨɨ</i></td>
 <td>all</td>
 </tr>
 
 <tr>
 <td>Do coming</td>
 <td></td>
-<td>-maa</td>
+<td><i>-maa</i></td>
 <td>all</td>
 </tr>
 
 <tr>
 <td>Do then go OR do going</td>
 <td></td>
-<td>-yaárɨɨ</td>
+<td><i>-yaárɨɨ</i></td>
 <td>/Vː/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>-aárɨɨ</td>
-<td>/v/-final stem: replaces stem-final /a, u/ but palatalizes stem-final /i, ɨ/</td>
+<td><i>-aárɨɨ</i></td>
+<td>/V/-final stem: replaces stem-final /a, u/ but palatalizes stem-final /i, ɨ/</td>
 </tr>
 
 <tr>
 <td>Do in passing deictic center</td>
 <td></td>
-<td>-V́rɨɨ</td>
+<td><i>-V́rɨɨ</i></td>
 <td>toneless /Vː/-final stem</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>-rɨɨ (always toneless)</td>
+<td><i>-rɨɨ</i> (always toneless)</td>
 <td>elsewhere</td>
 </tr>
 
 <tr>
 <td>Go away, do, depart</td>
 <td>Go down/downriver, do, depart</td>
-<td>-kʷaa</td>
+<td><i>-kʷaa</i></td>
 <td>all</td>
 </tr>
 
 <tr>
 <td>Come, do, depart</td>
 <td>Go up/upriver, do, depart</td>
-<td>-wɨɨ</td>
+<td><i>-wɨɨ</i></td>
 <td>realis clauses</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>-:́kuwɨɨ </td>
+<td><i>-:́kuwɨɨ </i></td>
 <td>irrealis clauses</td>
 </tr>
 </tbody>
@@ -2385,13 +2385,13 @@ While Iquito demonstrates a wide range of semantic distinctions in its clause-li
 
 <tr>
 <td></td>
-<td colspan="6">‘When your garden has dried, you will burn it.’</td>
+<td colspan="6">‘When your garden is dry, you will burn it.’</td>
 </tr>
 </tbody>
 
 </table>
 
-**Linking a finite clause and a non-finite clause.** The second clause-linking strategy links a finite clause to a non-finite subordinated clause (most often a ‘reason’ or ‘purpose’ clause) that follows it. The verb of the non-finite clause appears in the ‘event nominalized’ form and is accompanied by a postposition, as in (36) and (37).
+**Linking a finite clause and a non-finite clause.** The second clause-linking strategy links a finite clause to a non-finite subordinated clause (most often a reason clause or purpose clause) that follows it. The verb of the non-finite clause appears in the ‘event nominalized’ form and is accompanied by a postposition, as in (36) and (37).
 
 <table class="unstyled">
 <tbody>
@@ -2607,7 +2607,7 @@ Like most languages, Iquito has a large number of adverbs that have either claus
 
 **Locative demonstrative adverbs**
 
-In addition to locative nouns and locative postpositions, Iquito has a closed class of locative demonstrative adverbs. These locative demonstrative adverbs include both a *deictic* component, by which their reference is interpreted relative to speaker; and a *spatial* component, which provides information that anchors the deictic component to features of the spatial configuration of the situation in which the utterance occurs, as exemplified in (40).
+In addition to locative nouns and locative postpositions, Iquito has a closed class of locative demonstrative adverbs. The felicity of some locative adverbs, like *iiti* ‘here’ in (40a), is calculated with respect to a single deictic center, typically the location of the speaker. The felicity of other locative adverbs, as in (40b) and (40c), is calculated with respect to two deictic centers: one typically associated with the speaker, and a second typically associated with the addressee, which is in addition situated in an absolute reference frame.
 
 <table class="unstyled">
 <tbody>
@@ -2628,7 +2628,8 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=be.located-IPFV-NON.PST<td>here:general</td>
+<td>3GNL=be.located-IPFV-NON.PST</td>
+<td>here</td>
 </tr>
 
 <tr>
@@ -2646,13 +2647,15 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td>Nu=iíki-ii-ø<sup>HLL#</sup></td><td>iiku</td>
+<td>Nu=iíki-ii-ø<sup>HLL#</sup></td>
+<td>ii-ku</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=be.located-IPFV-NON.PST</td><td>here:up</td></tr>
+<td>3GNL=be.located-IPFV-NON.PST</td>
+<td>here-above.addressee</td></tr>
 
 <tr>
 <td></td>
@@ -2663,26 +2666,27 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td>c.</td>
-<td colspan="2"><i>Nu=iíkii iikujuúraji.</i></td>
+<td colspan="2"><i>Nu=iíkii ii-ma.</i></td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
 <td>Nu=iíki-ii-ø<sup>HLL#</sup></td>
-<td>iikujiíraji</td>
+<td>ii-ma</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>3GNL=be.located-IPFV-NON.PST</td><td>here:outside</td>
+<td>3GNL=be.located-IPFV-NON.PST</td>
+<td>here-below.address</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">‘It is here outside.’</td>
+<td colspan="2">‘It is down here.’</td>
 </tr>
 
 </tbody>
@@ -2714,15 +2718,15 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td>noun + noun</td>
 <td><i>anapa páasi</i></td>
 <td>species of rare <i>huasaco</i>-type fish</td>
-<td>macaw (n.) + <i>huasaco</i> (n.)</td>
+<td>macaw + <i>huasaco</i></td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td><i>kusi pakɨti</i></td>
+<td><i>kuni pakɨti</i></td>
 <td>Dragon-headed Bug</td>
-<td>snake (n.) + butterfly (n.)</td>
+<td>snake + butterfly</td>
 </tr>
 
 <tr>
@@ -2730,7 +2734,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td>adjective + noun</td>
 <td><i>aákusana isíiku</i></td>
 <td>ringworm</td>
-<td>red (adj.) + <i>sarna</i> skin malady (n.)</td>
+<td>red + <i>sarna</i> skin malady</td>
 </tr>
 
 <tr>
@@ -2738,7 +2742,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td></td>
 <td><i>taasíita iísaku</i></td>
 <td><i>sachacuy</i> forest rat</td>
-<td>true (adj.) + rat (n.)</td>
+<td>true + rat</td>
 </tr>
 
 <tr>
@@ -2746,7 +2750,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td>noun + adjective</td>
 <td><i>áwasi sɨɨ́sanurika</i></td>
 <td>little (pinky) finger</td>
-<td>finger (n.) + small (adj.)</td>
+<td>finger + small</td>
 </tr>
 
 <tr>
@@ -2754,7 +2758,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td></td>
 <td><i>iika tákaana</i></td>
 <td>detachable spear tip</td>
-<td>tooth (n.) + naked (adj.)</td>
+<td>tooth + naked.GNL</td>
 </tr>
 
 <tr>
@@ -2762,7 +2766,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td>noun + participialized verb</td>
 <td><i>muukwaayɨ ítuuja</i></td>
 <td>‘rainbow burn’ skin malady</td>
-<td>rainbow (n.) + burn (v.) + PTCPL</td>
+<td>rainbow + burn.PTCPL</td>
 </tr>
 
 <tr>
@@ -2770,7 +2774,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td></td>
 <td><i>níiya pániija</i></td>
 <td>Mud-dauber wasp</td>
-<td>earth (n.) + seek (v.) + PTCPL</td>
+<td>earth + search.for.PTCPL</td>
 </tr>
 
 <tr>
@@ -2778,7 +2782,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td>adverb + nominalized verb</td>
 <td><i>aniita asáana</i></td>
 <td>glutton</td>
-<td>big/great (adv.) + eat (v.) + NOMZ</td>
+<td>big/great + eat.NOMZ</td>
 </tr>
 
 <tr>
@@ -2786,7 +2790,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td></td>
 <td><i>sɨɨ́sa kuwasiáana</i></td>
 <td>person with speech impediment</td>
-<td>badly (adv.) + speak (v.) + NOMZ</td>
+<td>badly + speak.NOMZ</td>
 </tr>
 
 <tr>
@@ -2794,7 +2798,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td>adjective root + adjectivized noun</td>
 <td><i>saki namíjana</i></td>
 <td>light-eyed</td>
-<td>light-colored (adj.rt.) + eye (n.) + ADJR</td>
+<td>light-colored + eye.ADJR</td>
 </tr>
 
 <tr>
@@ -2802,7 +2806,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td></td>
 <td><i>riwa anásiikina</i></td>
 <td>bow-legged</td>
-<td>crooked (adj.rt.) + shank (n.) + ADJR</td>
+<td>crooked + shank.ADJR</td>
 </tr>
 
 <tr>
@@ -2810,7 +2814,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td>adverb + verb</td>
 <td><i>ánasa iwíini</i></td>
 <td>be angry</td>
-<td>angrily (adv.) + be (v.)</td>
+<td>angrily + be.EV.NOMZ</td>
 </tr>
 
 <tr>
@@ -2818,7 +2822,7 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td></td>
 <td><i>suúkwara míini</i></td>
 <td>behave in a disgusting manner</td>
-<td>disgustingly (adv.) + do (v.)</td>
+<td>disgustingly + do.EV.NOMZ</td>
 </tr>
 
 <tr>
@@ -2826,13 +2830,13 @@ The most common types of compound forms in Iquito are exemplified in Table 11.
 <td></td>
 <td><i>nɨya karíini</i></td>
 <td>be pallid</td>
-<td>palely (adv.) + appear (v.)</td>
+<td>palely + appear.EV.NOMZ</td>
 </tr>
 </tbody>
 
 </table>
 
-*Table 11.* The most common types of compound forms in Iquito. These types of compounds appear as dictionary headwords. See <a href="#ref8" id="8" data-toggle="tooltip" title="Abbreviations used throughout this discussion: 1/2/3 persons, (adj.) adjective, (adj.rt.) adjective root, ADJR adjectivizer, (adv.) adverb, ANIM animate, COP copula, DEF definite, DEM demonstrative, DET determiner, DRV derivational root, EV.NOMZ event nominalizer, EXCL exclusive of addressee, GNL general number/animacy, IMM.PFV immediate perfective aspect, INAN inanimate, INCL inclusive of addressee, INDEF indefinite determiner, IPFV imperfective aspect, LOC locative, (n.) noun, NOMZ nominalizer, NON.PST nonpast tense, PFV general perfective aspect, PL plural, POSP postposition, POSS possessed form, PROX proximal, PTCPL participializer, PURP purpose, REC.PST recent past tense, REL.PRO relative pronoun, SBD subordinate clause marker, SG singular, (v.) verb.">fn. 8</a> for abbreviations.
+*Table 11.* The most common types of compound forms in Iquito. These types of compounds appear as dictionary headwords. See <a href="#ref8" id="8" data-toggle="tooltip" title="Abbreviations used throughout this discussion: 1/2/3 persons, ADJR adjectivizer, ANIM animate, COP copula, DEF definite, DEM demonstrative, DET determiner, DRV derivational root, EV.NOMZ event nominalizer, EXCL exclusive, GNL general number/animacy, IMM.PFV immediate perfective aspect, INAN inanimate, INCL inclusive, INDEF indefinite determiner, IPFV imperfective aspect, LOC locative, NOMZ nominalizer, NON.PST nonpast tense, PFV general perfective aspect, PL plural, POSP postposition, POSS possessed form, PROX proximal, PTCPL participializer, PURP purpose, REC.PST recent past tense, REL.PRO relative pronoun, SBD subordinate clause marker, SG singular.">fn. 8</a> for abbreviations.
 
 ### Other key fields used in this dictionary
 
@@ -2874,7 +2878,7 @@ The example sentences follow the orthographic conventions for written Iquito dev
 
 The lexical data gathered by the Iquito Language Documentation Project exhibits a great deal of variation, reflecting the complex dialectal and demographic history of the Iquito people. Here, we discuss the ways in which this dictionary addresses this complex variation.
 
-There are at least two clear sources of variation in the Iquito lexicon. First, as of the late 19th century, the Iquito people consisted of four major geographically delimited sub-groups, enumerated in Table 12 with their corresponding territories. Our consultants’ comments make it clear that, at least in the 20th century, Iquitos held strong language ideologies regarding linguistic differences between these sub-groups, focused on differences in lexicon and intonation.<a href="#ref13" id="13" data-toggle="tooltip" title="Our consultants also cite a set of supposed physical morphological differences in body size and skin color, as well as specific differences in the lengths of legs and fingers, and the diameter of upper arms and lower legs, as highly salient distinguishing features of the different sub-groups."><sup>13</sup></a> We refer to the linguistic variation indexing these sub-groups as ‘dialectal variation’.
+There are at least two clear sources of variation in the Iquito lexicon. First, as of the late 19th century, the Iquito people consisted of five major geographically delimited sub-groups, enumerated in Table 12 with their corresponding territories. Our consultants’ comments make it clear that, at least in the 20th century, Iquitos held strong language ideologies regarding linguistic differences between these sub-groups, focused on differences in lexicon and intonation.<a href="#ref13" id="13" data-toggle="tooltip" title="Our consultants also cite a set of supposed physical morphological differences in body size and skin color, as well as specific differences in the lengths of legs and fingers, and the diameter of upper arms and lower legs, as highly salient distinguishing features of the different sub-groups."><sup>13</sup></a> We refer to the linguistic variation indexing these sub-groups as ‘dialectal variation’.
 
 <table class="table table-bordered">
 
@@ -3475,7 +3479,7 @@ Footnotes
 
 <a href="#7" id="ref7"><sup>7</sup></a> Although some speakers do variably realize underlying /uka/ sequences as [uka]&sim;[ukʷa], this is an unrelated phenomenon.
 
-<a href="#8" id="ref8"><sup>8</sup></a> Abbreviations used throughout this discussion: 1/2/3 persons, (adj.) adjective, (adj.rt.) adjective root, ADJR adjectivizer, (adv.) adverb, ANIM animate, COP copula, DEF definite, DEM demonstrative, DET determiner, DRV derivational root, EV.NOMZ event nominalizer, EXCL exclusive of addressee, GNL general number/animacy, IMM.PFV immediate perfective aspect, INAN inanimate, INCL inclusive of addressee, INDEF indefinite determiner, IPFV imperfective aspect, LOC locative, (n.) noun, NOMZ nominalizer, NON.PST nonpast tense, PFV general perfective aspect, PL plural, POSS possessed form, PROX proximal, PTCPL participializer, PURP purpose, REC.PST recent past tense, REL.PRO relative pronoun, SBD subordinate clause marker, SG singular, (v.) verb.
+<a href="#8" id="ref8"><sup>8</sup></a> Abbreviations used throughout this discussion: 1/2/3 persons, ADJR adjectivizer, ANIM animate, COP copula, DEF definite, DEM demonstrative, DET determiner, DRV derivational root, EV.NOMZ event nominalizer, EXCL exclusive, GNL general number/animacy, IMM.PFV immediate perfective aspect, INAN inanimate, INCL inclusive, INDEF indefinite determiner, IPFV imperfective aspect, LOC locative, NOMZ nominalizer, NON.PST nonpast tense, PFV general perfective aspect, PL plural, POSP postposition, POSS possessed form, PROX proximal, PTCPL participializer, PURP purpose, REC.PST recent past tense, REL.PRO relative pronoun, SBD subordinate clause marker, SG singular.
 
 <a href="#9" id="ref9"><sup>9</sup></a> Interestingly, this was a common feature among orthographies developed by SIL missionaries for indigenous Peruvian Amazonian languages in the 1950s and 1960s. It is unclear, on a language by language basis, and in Iquito in particular, to what degree this choice represents a commitment to the underlying, or phonemic, representation of the speech sounds in question, and to what degree this was simply a general orthographic convenience.
 
