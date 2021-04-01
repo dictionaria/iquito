@@ -15,7 +15,7 @@ Iquito-English Dictionary
 The language and its speakers
 -----------------------------
 
-Iquito [iqu] is a language of the Zaparoan family; its sister languages include Andoa [anb] (also: Katsakáti), Arabela [arl], and Záparo [zro] (also: Zápara, Sápara).<a href="#ref1" id="1" data-toggle="tooltip" title="Omurano [omu] and Abishira [avs] have been classified as Zaparoan in some sources (e.g., Kaufman 1994), but because they exhibit no systematic similarities to Zaparoan languages, or to each other, they are most likely isolates (Michael et al., in prep.)."><sup>1</sup></a> Both Iquito and the Zaparoan family are critically endangered. At the time of writing in 2020, Iquito has fewer than 10 remaining fluent native speakers, the youngest of whom are in their seventies and only two of whom regularly use the language as a means of communication. As of 2011, Arabela had about 30 remaining speakers (Buenaño 2011); as of 2014, Záparo had only a few rememberers; and by 2009 Andoa had already fallen silent.<a href="#ref2" id="2" data-toggle="tooltip" title="Information on Andoa and Záparo language vitality is based on language documentation fieldwork by the compilers in the relevant communities (see Michael et al. 2009 and Beier et al. 2014 respectively)."><sup>2</sup></a> Community-oriented efforts to revitalize and revalorize Iquito (Beier & Michael 2018) and Záparo (e.g., Viatori & Ushigua 2007) are currently underway, however.
+Iquito [iqu] is a language of the Zaparoan family; its sister languages include Andoa [anb] (also: Katsakáti), Arabela [arl], and Záparo [zro] (also: Zápara, Sápara).<a href="#ref1" id="1" data-toggle="tooltip" title="‘Omurana’ [omu] and ‘Awishira’ [ash] have been identified as Zaparoan languages in some sources (e.g., Steward & Métraux 1948), but because they exhibit no systematic similarities to Zaparoan languages, or to each other, they are most likely isolates (Michael et al., in prep.)."><sup>1</sup></a> Both Iquito and the Zaparoan family are critically endangered. At the time of writing in 2020, Iquito has fewer than 10 remaining fluent native speakers, the youngest of whom are in their seventies and only two of whom regularly use the language as a means of communication. As of 2011, Arabela had about 30 remaining speakers (Buenaño 2011); as of 2014, Záparo had only a few rememberers; and by 2009 Andoa had already fallen silent.<a href="#ref2" id="2" data-toggle="tooltip" title="Information on Andoa and Záparo language vitality is based on language documentation fieldwork by the compilers in the relevant communities (see Michael et al. 2009 and Beier et al. 2014 respectively)."><sup>2</sup></a> Community-oriented efforts to revitalize and revalorize Iquito (Beier & Michael 2018) and Záparo (e.g., Viatori & Ushigua 2007) are currently underway, however.
 
 Prior to encountering European diseases, missionaries, and military aggression in the late 17th century, speakers of the Zaparoan languages occupied an extensive territory in what is now northwestern Peru and eastern Ecuador. This territory spanned from the banks of the Napo River in the north to the banks of the middle Tigre River in the south and to the upper Pastaza River basin in the west (Map 1). Within this region, Iquito groups occupied a large territory between the Napo and Tigre Rivers. Iquitos’ first major sustained interaction with the invading Europeans and their descendants was with Jesuit missionaries in the 18th century, who sought to concentrate Iquitos in a number of *reducciones*, or mission settlements, in the Nanay River basin (see Map 2). After the Jesuits were expelled from South America, some Iquito  families settled near the present day location of the city of Iquitos (Grohs 1974, Uriarte 1986), through which circumstance the city later got its name.
 
@@ -224,56 +224,56 @@ On the basis of this alphabet, we represent the eight vowel phonemes of Iquito u
 <tr>
 <td>a</td>
 <td>a</td>
-<td>ajapaka</td>
+<td><i>ajapaka</i></td>
 <td>ahapaka</td>
 <td>wasp</td>
 </tr>
 <tr>
 <td>aa</td>
 <td>aː</td>
-<td>taana</td>
+<td><i>taana</i></td>
 <td>taːna</td>
 <td>other</td>
 </tr>
 <tr>
 <td>i</td>
 <td>i</td>
-<td>minati</td>
+<td><i>minati</i></td>
 <td>minati</td>
 <td>pineapple</td>
 </tr>
 <tr>
 <td>ii</td>
 <td>iː</td>
-<td>siimana</td>
+<td><i>siimana</i></td>
 <td>ʃi:mana</td>
 <td>shaman</td>
 </tr>
 <tr>
 <td>ɨ</td>
 <td>ɨ</td>
-<td>kɨtɨ</td>
+<td><i>kɨtɨ</i></td>
 <td>kɨtɨ</td>
 <td>gecko</td>
 </tr>
 <tr>
 <td>ɨɨ</td>
 <td>ɨː</td>
-<td>mɨɨja</td>
+<td><i>mɨɨja</i></td>
 <td>mɨːha</td>
 <td>hummingbird</td>
 </tr>
 <tr>
 <td>u</td>
 <td>u</td>
-<td>nunamija</td>
+<td><i>nunamija</i></td>
 <td>nunamiha</td>
 <td>sun</td>
 </tr>
 <tr>
 <td>uu</td>
 <td>uː</td>
-<td>muuti</td>
+<td><i>muuti</i></td>
 <td>muːti</td>
 <td>black agouti</td>
 </tr>
@@ -1025,7 +1025,7 @@ Iquito determiners agree in number and animacy with their co-occurring adjective
 <td>two-PL.ANIM</td>
 <td>elder-PL.ANIM</td>
 <td>person.PL</td>
-<td>3PL-live-IPFV-NON.PST</td>
+<td>3PL-live/reside-IPFV-NON.PST</td>
 <td>here</td>
 </tr>
 
@@ -1134,7 +1134,7 @@ Note that the forms *iina, iimi* and *iipɨ* in fact have multiple functions in 
 <td></td>
 <td>DEF/DEM-GNL</td>
 <td>woman</td>
-<td>live-IPFV-NON.PST</td>
+<td>live/reside-IPFV-NON.PST</td>
 <td>here</td>
 </tr>
 
@@ -1212,7 +1212,7 @@ In addition to the above complex forms, Iquito has a single **indefinite determi
 <td></td>
 <td>INDEF</td>
 <td>woman</td>
-<td>live-IPFV-NON.PST</td>
+<td>live/reside-IPFV-NON.PST</td>
 <td>here</td>
 </tr>
 
@@ -1950,7 +1950,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td></td>
 <td></td>
 <td></td>
-<td><i>-V́kiaakɨ<sup>#LL</sup></i></td>
+<td>-Vː́<i>kiaakɨ<sup>#LL</sup></i></td>
 <td>/Vː/-final stem</td>
 </tr>
 
@@ -2635,7 +2635,7 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">‘It is here.’</td>
+<td colspan="2">‘She/he/it is here.’</td>
 </tr>
 
 <tr>
@@ -2660,7 +2660,7 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">‘It is up here.’</td>
+<td colspan="2">‘She/he/it is up here.’</td>
 </tr>
 
 <tr>
@@ -2686,7 +2686,7 @@ In addition to locative nouns and locative postpositions, Iquito has a closed cl
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">‘It is down here.’</td>
+<td colspan="2">‘She/he/it is down here.’</td>
 </tr>
 
 </tbody>
@@ -2979,7 +2979,7 @@ Emmons, Louise & François Feer. 1997. *Neotropical rainforest mammals: A field 
 
 Flores Bendezú, Ymber. 2013. *Manual para la identificación de especies forestales en la región Ucayali*. Dirección General Forestal y de Fauna Silvestre del Perú.
 
-García, Carmen Rosa Dávila, Homero Sánchez Riveiro, Mayra Almendra Flores Silva, Jose Eduardo Mejia de Loayza, Carlos Custodio Angulo Chávez, Diana Castro Ruiz, Guillain Estivals, Aurea García Vásquez, Christian Nolorbe Payahua, Gladys Vargas Dávila, Jesús Nú&ntilde;ez, Cedric Mariac, Fabrice Duponchelle & Jean-François Renno. 2018. *Peces de consumo de la Amazonía Peruana*. Instituto de Investigación de la Amazonía Peruana.
+García, Carmen Rosa Dávila, Homero Sánchez Riveiro, Mayra Almendra Flores Silva, Jose Eduardo Mejia de Loayza, Carlos Custodio Angulo Chávez, Diana Castro Ruiz, Guillain Estivals, Aurea García Vásquez, Christian Nolorbe Payahua, Gladys Vargas Dávila, Jesús Nú&ntilde;ez, Cedric Mariac, Fabrice Duponchelle & Jean-François Renno. 2018. *Peces de consumo de la Amazonía Peruana*. Iquitos, Perú: Instituto de Investigación de la Amazonía Peruana.
 
 Grandtner, Miroslav & Julien Chevrette. 2013. *Dictionary of trees, Vol. 2: South America: Nomenclature, taxonomy and ecology*. Academic Press.
 
@@ -2987,13 +2987,13 @@ Hogue, Charles Leonard. 1993. *Latin American insects and entomology*. Universit
 
 Hilty, Steven & William Brown. 1986. *A guide to the birds of Colombia*. Princeton University Press.
 
-Martín Brañas, Manolo, ed. 2009. *Amazonía: Guía ilustrada de flora y fauna*. Programa de Cooperación Hispano Peruano-Proyecto Araucaria XXI Nauta.
+Martín Brañas, Manolo (ed.). 2009. *Amazonía: Guía ilustrada de flora y fauna*. Programa de Cooperación Hispano Peruano-Proyecto Araucaria XXI Nauta.
 
 Ministerio del Ambiente del Perú. 2015. *Inventario y evaluación de los bosques de las cuencas de los ríos Itaya, Nanay y Tahuayo en el departamento de Loreto*. Lima: Ministerio del Ambiente.
 
 Moya, Luis, Mario Yomona & Carlos Cañas. 2017. *Guía de reconocimiento de los principales peces de consumo en la Región Loreto*. Wildlife Conservation Society.
 
-Ortega, Hernán, José Iván Mojica, Juan Carlos Alonso & Max Hidalgo. 2006. *Listado de los peces de la cuenca del río Putumayo en su sector colombo–peruano. Biota Colombiana* 7(1):  95–112.
+Ortega, Hernán, José Iván Mojica, Juan Carlos Alonso & Max Hidalgo. 2006. Listado de los peces de la cuenca del río Putumayo en su sector colombo–peruano. *Biota Colombiana* 7(1):  95–112.
 
 Schulenberg, Thomas, Douglas Stotz, Daniel Lane, John O’Neill & Theodore Parker III. 2010. *Birds of Peru: Revised and updated edition*. Princeton University Press.
 
@@ -3049,7 +3049,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>bijao</b></td>
 <td>noun</td>
-<td>Term used for various plants of the genus <i>Heliconia</i> that have long, broad, and quite tough glossy leaves. These leaves are used in many communities in rural Peruvian Amazonia to wrap food for transport, or to cook it, in the form of <i>patarashca</i>; they are also used to seal the tops of cooking pots to steam food.</td>
+<td>Term used for various plants of the genus <i>Heliconia</i> that have long, broad, and quite tough glossy leaves. These leaves are used in many communities in rural Peruvian Amazonia to wrap food for transport, or to cook it, in the form of <i>patarashca</i> (see below); they are also used to seal the tops of cooking pots to steam food.</td>
 </tr>
 
 <tr>
@@ -3079,19 +3079,19 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>chacra</b></td>
 <td>noun</td>
-<td>Swidden garden; a cultivated area, typically on the order of a hectare in size, which has been prepared by felling and burning the undergrowth and trees of an area of forest. <i>Chacras</i> are typically planted with a mixture of crops, including manioc, plantains, and corn, as well as minor cultigens such as pineapples, peppers, and <i>barbasco</i>. A <i>chacra</i> is normally productive for two to three years, after which point undergrowth returns and it becomes a <i>purma</i>, as it reverts to forest.</td>
+<td>Swidden garden; a cultivated area, typically on the order of a hectare in size, which has been prepared by felling and burning the undergrowth and trees of an area of forest. <i>Chacras</i> are typically planted with a mixture of crops, including manioc, plantains, and corn, as well as minor cultigens such as pineapples, peppers, and <i>barbasco</i>. A <i>chacra</i> is normally productive for two to three years, after which point undergrowth returns and it becomes a <i>purma</i> (see below), as it reverts to forest.</td>
 </tr>
 
 <tr>
 <td><b>chacruna</b></td>
 <td>noun</td>
-<td>Plants of the genus <i>Psychotria</i>, whose leaves are a key ingredient in <i>ayahuasca</i>.</td>
+<td>Plants of the genus <i>Psychotria</i>, whose leaves are a key ingredient in <i>ayahuasca</i> (see above).</td>
 </tr>
 
 <tr>
 <td><b>chambira</b></td>
 <td>noun</td>
-<td><i>Astrocaryum chambira</i>, a species of palm of great importance to Amazonian Indigenous peoples for both its edible fruits and the fiber that can be extracted from its <i>cogollo</i>. The fiber can be spun into a durable cord that is used to weave net bags and hammocks; the cord can itself be spun into heavier rope.</td>
+<td><i>Astrocaryum chambira</i>, a species of palm of great importance to Amazonian Indigenous peoples for both its edible fruits and the fiber that can be extracted from its <i>cogollo</i> (see below). The fiber can be spun into a durable cord that is used to weave net bags and hammocks; the cord can itself be spun into heavier rope.</td>
 </tr>
 
 <tr>
@@ -3127,7 +3127,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>crisneja</b></td>
 <td>noun</td>
-<td>A pre-fabricated panel of palm leaf roof thatch. In Iquito territory, these are made using a <i>ripa</i> of palm wood (typically, <i>pona</i>), some 2–3cm wide and 2–3m in length, to which are attached leaves of <i>irapay</i> palm. The stems of the <i>irapay</i> leaves are tied to the <i>ripa</i>, one next to the other, with a separation of some 1.5–2cm, and the broad parts of the leaves are interleaved together on one side so as to create a solid rectangular piece of thatch with the <i>ripa</i> along one edge.</td>
+<td>A pre-fabricated panel of palm leaf roof thatch. In Iquito territory, these are made using a <i>ripa</i> (see below) of palm wood (typically, <i>pona</i>), some 2–3cm wide and 2–3m in length, to which are attached leaves of <i>irapay</i> palm. The stems of the <i>irapay</i> leaves are tied to the <i>ripa</i>, one next to the other, with a separation of some 1.5–2cm, and the broad parts of the leaves are interleaved together on one side so as to create a solid rectangular piece of thatch with the <i>ripa</i> along one edge.</td>
 </tr>
 
 <tr>
@@ -3157,7 +3157,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>irapay</b></td>
 <td>noun</td>
-<td>General term for a number of palm species of the genus <i>Lepidocaryum</i>; these palms are typically less than two meters in stature, and in Loreto their leaves are commonly harvested to weave <i>crisnejas</i>.</td>
+<td>General term for a number of palm species of the genus <i>Lepidocaryum</i>; these palms are typically less than two meters in stature, and in Loreto their leaves are commonly harvested to weave <i>crisnejas</i> (see above).</td>
 </tr>
 
 <tr>
@@ -3205,7 +3205,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>minga</b></td>
 <td>noun</td>
-<td>A form of work party common in rural Peruvian Amazonia, where a host invites friends and neighbors over for food and drink, and in return the guests help the host with a labor-intensive task, typically of an agricultural nature, such as clearing or planting a new garden. It is common for <i>masato</i> to be abundant at <i>mingas</i>, with the result that the hard work of the <i>minga</i> is carried out in a cheerful and friendly atmosphere.</td>
+<td>A form of work party common in rural Peruvian Amazonia, where a host invites friends and neighbors over for food and drink, and in return the guests help the host with a labor-intensive task, typically of an agricultural nature, such as clearing or planting a new garden. It is common for <i>masato</i> (see above) to be abundant at <i>mingas</i>, with the result that the hard work of the <i>minga</i> is carried out in a cheerful and friendly atmosphere.</td>
 </tr>
 
 <tr>
@@ -3295,7 +3295,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>purma</b></td>
 <td>noun</td>
-<td>A <i>chacra</i> that is no longer being maintained, so that undergrowth has returned, gradually choking out any remaining cultigens as it reverts to forest.</td>
+<td>A <i>chacra</i> (see above) that is no longer being maintained, so that undergrowth has returned, gradually choking out any remaining cultigens as it reverts to forest.</td>
 </tr>
 
 <tr>
@@ -3379,7 +3379,7 @@ In this section we provide a brief glossary of Loretano Spanish terms that are u
 <tr>
 <td><b>yuca</b></td>
 <td>noun</td>
-<td><i>Manihot esculenta</i>, also known in English as ‘manioc’ and ‘cassava’. It produces large carbohydrate-rich tubers and is one of the primary cultigens of Indigenous Amazonian peoples, as well as of settlers in the region. The tubers are cooked in a variety of ways for eating, as well as constituting the principal ingredient of <i>masato</i>. It merits mention that this word is often misspelled in English as <i>yucca</i>, a term that is instead properly applied to plants of the unrelated genus <i>Yucca</i>.</td>
+<td><i>Manihot esculenta</i>, also known in English as ‘manioc’ and ‘cassava’. It produces large carbohydrate-rich tubers and is one of the primary cultigens of Indigenous Amazonian peoples, as well as of settlers in the region. The tubers are cooked in a variety of ways for eating, as well as constituting the principal ingredient of <i>masato</i> (see above). It merits mention that this word is often misspelled in English as <i>yucca</i>, a term that is instead properly applied to plants of the unrelated genus <i>Yucca</i>.</td>
 </tr>
 
 <tr>
@@ -3465,7 +3465,7 @@ Finally, we express our sincere thanks to all our other friends, family, and col
 Footnotes
 ---------
 
-<a href="#1" id="ref1"><sup>1</sup></a> Omurano [omu] and Abishira [avs] have been classified as Zaparoan in some sources (e.g., Kaufman 1994), but because they exhibit no systematic similarities to Zaparoan languages, or to each other, they are most likely isolates (Michael et al., in prep.).
+<a href="#1" id="ref1"><sup>1</sup></a> ‘Omurana’ [omu] and ‘Awishira’ [ash] have been identified as Zaparoan languages in some sources (e.g., Steward & Métraux 1948), but because they exhibit no systematic similarities to Zaparoan languages, or to each other, they are most likely isolates (Michael et al., in prep.).
 
 <a href="#2" id="ref2"><sup>2</sup></a> Information on Andoa and Záparo language vitality is based on language documentation fieldwork by the compilers in the relevant communities (see Michael et al. 2009 and Beier et al. 2014 respectively).
 
@@ -3509,35 +3509,35 @@ Beier, Christine, Brenda Bowser, Lev Michael & Vivian Wauters. 2014. *Diccionari
 
 Beier, Christine, Cynthia Hansen, I-wen Lai & Lev Michael. 2011. Exploiting word order to express an inflectional category: Reality status in Iquito. *Linguistic Typology* 15:65–99.
 
-Beier, Christine & Lev Michael. 2018. Language revalorization in Peruvian Amazonia, through the lens of Iquito. In Hinton, Leanne, Leena Huss & Gerald Roche, eds. *The Routledge Handbook of Language Revitalization*, 406–414. New York: Routledge.
+Beier, Christine & Lev Michael. 2018. Language revalorization in Peruvian Amazonia, through the lens of Iquito. In Hinton, Leanne, Leena Huss & Gerald Roche (eds.), *The Routledge Handbook of Language Revitalization*, 406–414. New York: Routledge.
 
 Beier, Christine, Lev Michael, Jaime Pacaya Inuma, Ema Llona Yareja, Hermenegildo Díaz Cuyasa & Ligia Inuma Inuma. 2019. *Diccionario Escolar Ikíitu Kuwasíini–Tawɨ Kuwasíini (Iquito–Castellano)*. Iquitos: Iquito Language Documentation Project and Cabeceras Aid Project. Stable URL: [https://escholarship.org/uc/item/03m736sz](https://escholarship.org/uc/item/03m736sz).
 
-Buenaño, Julio. 2011. Importancia histórica, social, política y económica de la población arabela. *Investigaciones Sociales* 15 (27): 331–348.
+Buenaño, Julio. 2011. Importancia histórica, social, política y económica de la población arabela. *Investigaciones Sociales* 15(27): 331–348.
 
-Campbell, Lyle & Martha Muntzel. 1989. The structural consequences of language death, In Dorian, Nancy C., ed., *Investigating Obsolescence: Studies in Language Contraction and Death*, 181–196. Cambridge University Press.
+Campbell, Lyle & Martha Muntzel. 1989. The structural consequences of language death. In Dorian, Nancy C. (ed.), *Investigating Obsolescence: Studies in Language Contraction and Death*, 181–196. Cambridge University Press.
 
 de la Cadena, Marisol. 2000. *Indigenous Mestizos: The politics of race and culture in Cuzco, Peru, 1919-1991.* Duke University Press.
 
-Eastman, Robert & Elizabeth Eastman. 1963. Iquito syntax. In Elson, Benjamin, ed., *Studies in Peruvian Languages I*, 145–192. Norman, OK: Summer Institute of Linguistics and University of Oklahoma Press.
+Eastman, Robert & Elizabeth Eastman. 1963. Iquito syntax. In Elson, Benjamin (ed.), *Studies in Peruvian Languages I*, 145–192. Norman, OK: Summer Institute of Linguistics and University of Oklahoma Press.
 
 Grohs, Waltraud. 1974. *Los indios del Alto Amazonas del siglo XVI al XVIII: Poblaciones y migraciones en la antigua provincia de Maynas.* Bonn: Bonner Amerikanistische Studien.
-
-Kaufman, Terrence. 1994. The native languages of South America. In Moseley, Christopher, R.E. Asher & Mary Tait, eds., *Atlas of the world’s languages*, 46–76. London: Routledge.
 
 Michael, Lev. 2009. Clause linking in Iquito. In Dixon, RMW & Alexandra Aikhenvald (eds.),  *The semantics of clause linking: A cross-linguistic typology,* 145-166. Oxford University Press.
 
 Michael, Lev & Christine Beier with Jaime Pacaya Inuma, Ema Llona Yareja, Hermenegildo Díaz Cuyasa, and Ligia Inuma Inuma. 2019. *Iquito–English Dictionary.* Quito: Ediciones Abya-Yala.
 
-Michael, Lev, Christine Beier, Ramón Escamilla, and Marta Piqueras-Brunet. 2009. *Katsakáti: El idioma antiguo del pueblo de Andoas.* Andoa Language Documentation Project. Available at: [http://www.cabeceras.org/anb_katsakati_jun2009.pdf](http://www.cabeceras.org/anb_katsakati_jun2009.pdf).
+Michael, Lev, Christine Beier, Ramón Escamilla, & Marta Piqueras-Brunet. 2009. *Katsakáti: El idioma antiguo del pueblo de Andoas.* Andoa Language Documentation Project. Available at: [http://www.cabeceras.org/anb_katsakati_jun2009.pdf](http://www.cabeceras.org/anb_katsakati_jun2009.pdf).
 
 Michael, Lev, Christine Beier & Karina Sullón Acosta, compilers. 2006. *Diccionario Bilingüe Iquito–Castellano y Castellano–Iquito*. Iquitos: Iquito Language Documentation Project and Cabeceras Aid Project.
 
 Michael, Lev, Christine Beier, Olof Lundgren & Vivian Wauters. In prep. *Reconstruction of the Proto-Zaparoan phonological inventory*.
 
-Michael, Lev & Kevin Jernigan. In prep. Methodologies for linguistic documentation of ethnobiological terminology. In Jenks, Peter & Lev Michael, eds., From language description to documentation: Seven key topics. Special Issue of Language Documentation and Conservation.
+Michael, Lev & Kevin Jernigan. In prep. Methodologies for linguistic documentation of ethnobiological terminology. In Jenks, Peter & Lev Michael (eds.), From language description to documentation: Seven key topics. Special Issue of Language Documentation and Conservation.
 
 Santos-Granero, Fernando & Frederica Barclay. 2000. *Tamed frontiers: economy, society, and civil rights in upper Amazonia.* Boulder, CO: Westview Press.
+
+Steward, Julian H. & Alfred Métraux. 1948. Tribes of the Peruvian and Ecuadorian Montaña. In Steward, Julian H. (ed.), *Handbook of South American Indians. Volume 3. The Tropical Forest Tribes*, 535-656. Washington, D.C.: Smithsonian Institution, Bureau of American Ethnology.
 
 Uriarte, Manuel J. 1986. *Diario de un misionero de Maynas.* Iquitos: IIAP–CETA.
 
