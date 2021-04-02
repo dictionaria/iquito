@@ -1,3 +1,5 @@
+<link href="https://matthew.clld.org/dictionaria/clld-static/css/packed.9fe34c96.css" rel="stylesheet">
+
 Iquito-English Dictionary
 -------------------------
 
@@ -1950,7 +1952,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <td></td>
 <td></td>
 <td></td>
-<td>-Vː́<i>kiaakɨ<sup>#LL</sup></i></td>
+<td>-V́<i>kiaakɨ<sup>#LL</sup></i></td>
 <td>/Vː/-final stem</td>
 </tr>
 
@@ -2018,7 +2020,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <tr>
 <td>Perfective</td>
 <td>immediate transition between two states</td>
-<td><i>-V́rɨɨ</i></td>
+<td>-V́<i>rɨɨ</i></td>
 <td>toneless /Vː/-final stem</td>
 </tr>
 
@@ -2098,7 +2100,7 @@ Iquito exhibits a three-way overt **tense** distinction, between *non-past*, *re
 <tr>
 <td>Do in passing deictic center</td>
 <td></td>
-<td><i>-V́rɨɨ</i></td>
+<td>-V́<i>rɨɨ</i></td>
 <td>toneless /Vː/-final stem</td>
 </tr>
 
@@ -3531,7 +3533,7 @@ Michael, Lev, Christine Beier, Ramón Escamilla, & Marta Piqueras-Brunet. 2009. 
 
 Michael, Lev, Christine Beier & Karina Sullón Acosta, compilers. 2006. *Diccionario Bilingüe Iquito–Castellano y Castellano–Iquito*. Iquitos: Iquito Language Documentation Project and Cabeceras Aid Project.
 
-Michael, Lev, Christine Beier, Olof Lundgren & Vivian Wauters. In prep. *Reconstruction of the Proto-Zaparoan phonological inventory*.
+Michael, Lev, Christine Beier, Olof Lundgren & Vivian Wauters. In prep. Reconstruction of the Proto-Zaparoan phonological inventory.
 
 Michael, Lev & Kevin Jernigan. In prep. Methodologies for linguistic documentation of ethnobiological terminology. In Jenks, Peter & Lev Michael (eds.), From language description to documentation: Seven key topics. Special Issue of Language Documentation and Conservation.
 
