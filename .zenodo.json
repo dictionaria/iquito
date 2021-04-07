@@ -1,0 +1,31 @@
+{
+    "title": "dictionaria/iquito: Iquito dictionary",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Lev Michael"
+        },
+        {
+            "name": "Christine Beier"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "dictionaria"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
