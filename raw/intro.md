@@ -1,5 +1,3 @@
-<link href="https://matthew.clld.org/dictionaria/clld-static/css/packed.9fe34c96.css" rel="stylesheet">
-
 Iquito-English Dictionary
 -------------------------
 
