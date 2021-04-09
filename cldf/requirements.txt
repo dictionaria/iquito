@@ -4,7 +4,7 @@ cdstarcat==1.3.0
 certifi==2019.11.28
 chardet==3.0.4
 cldfbench==1.6.0
--e git+git@github.com:dictionaria/iquito.git@267c3171db90d2efaeb4687b1b714970ded8d6e8#egg=cldfbench_iquito
+-e git+https://github.com/dictionaria/iquito@8277cd5fcf15e8bcaafdbe918c3ae67f8b3a39eb#egg=cldfbench_iquito
 cldfcatalog==1.3.0
 clldutils==3.7.0
 colorama==0.4.3
@@ -28,7 +28,7 @@ pycldf==1.19.0
 pyconcepticon==2.7.0
 pycountry==20.7.3
 pydictionaria==2.0
-pyglottolog==3.3.0
+pyglottolog==3.4.0
 pytest==6.2.3
 requests==2.22.0
 rfc3986==1.4.0
