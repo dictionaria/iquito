@@ -32,7 +32,7 @@ Iquito [iqu] is a language of the Zaparoan family; its sister languages include 
 
 Prior to encountering European diseases, missionaries, and military aggression in the late 17th century, speakers of the Zaparoan languages occupied an extensive territory in what is now northwestern Peru and eastern Ecuador. This territory spanned from the banks of the Napo River in the north to the banks of the middle Tigre River in the south and to the upper Pastaza River basin in the west (Map 1). Within this region, Iquito groups occupied a large territory between the Napo and Tigre Rivers. Iquitos’ first major sustained interaction with the invading Europeans and their descendants was with Jesuit missionaries in the 18th century, who sought to concentrate Iquitos in a number of *reducciones*, or mission settlements, in the Nanay River basin (see Map 2). After the Jesuits were expelled from South America, some Iquito  families settled near the present day location of the city of Iquitos (Grohs 1974, Uriarte 1986), through which circumstance the city later got its name.
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0167-3A72-690A-0/iquito_dictionaria_zaparoan_territory.jpg"><img alt="Map of Zaparoan homelands" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0167-3A72-690A-0/iquito_dictionaria_zaparoan_territory.jpg" width="350"/> </a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0167-3A72-690A-0/iquito_dictionaria_zaparoan_territory.jpg"><img alt="Map of Zaparoan homelands" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0167-3A72-690A-0/iquito_dictionaria_zaparoan_territory.jpg" width="350"/> </a>
 
 *Map 1.* Locations of the Napo, Tigre, and Pastaza Rivers, which define the historical territories of the speakers of Zaparoan languages.<a data-toggle="tooltip" href="#ref3" id="3" title="Details added by the compilers to a base map by Kmusser, 2008 (Own work using Digital Chart of the World and GTOPO data; CC BY-SA 3.0), https://commons.wikimedia.org/w/index.php?curid=4745680"><sup>3</sup></a>
 
@@ -40,7 +40,7 @@ After a period of relative peace and liberty, Iquitos were again beset during th
 
 Since the 1950s, the majority of Iquito speakers and inheritors have lived in or near the community of San Antonio de Pintuyacu (Map 2).
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D1F2-A5F4-0924-0/iquito_dictionaria_sanantonio_peru.jpg"> <img alt="Location of San Antonio de Pintuyacu" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D1F2-A5F4-0924-0/iquito_dictionaria_sanantonio_peru.jpg" width="400"/> </a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D1F2-A5F4-0924-0/iquito_dictionaria_sanantonio_peru.jpg"> <img alt="Location of San Antonio de Pintuyacu" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D1F2-A5F4-0924-0/iquito_dictionaria_sanantonio_peru.jpg" width="400"/> </a>
 
 *Map 2.* Location of the Iquito village of San Antonio de Pintuyacu, Maynas, Loreto, Peru.<a data-toggle="tooltip" href="#ref4" id="4" title="Details added by the compilers to a base map originally produced by the Central Intelligence Agency and obtained courtesy of the University of Texas Libraries, The University of Texas at Austin, www.lib.utexas.edu/maps/americas/peru_rel_06.jpg."><sup>4</sup></a> As of 2017, the population of the Iquitos metropolitan area was roughly 510,000<a data-toggle="tooltip" href="#ref5" id="5" title="Source: https://en.wikipedia.org/wiki/Iquitos"><sup>5</sup></a> and the population of San Antonio was roughly 400.
 
@@ -906,7 +906,7 @@ Iquito has a relatively large set of **determiners** — specifically, adnominal
 
 *Table 6.* Iquito determiners
 
-Iquito determiners agree in number and animacy with their co-occurring adjectives and nouns. Exhaustive morphological marking of plurality, as in (14a), is common. However, because ‘general’ number and animacy are semantically compatible with either singular or plural referents, as well as with either animate or inanimate ones, mismatches in the forms of agreement suffixes may occur, in two ways. First, it is possible for any one of the three number/animacy markers to occur on a target determiner (or other adnominal) whose controller lacks overt plural marking, as in (14b&amp;c). Second, ‘generalʼ *-na* may co-occur with either plural, *-mi* or *-pɨ*, as in (14c), depending on discourse context.
+Iquito determiners agree in number and animacy with their co-occurring adjectives and nouns. Exhaustive morphological marking of plurality, as in (14a), is common. However, because ‘general’ number and animacy are semantically compatible with either singular or plural referents, as well as with either animate or inanimate ones, mismatches in the forms of agreement suffixes may occur, in two ways. First, it is possible for any one of the three number/animacy markers to occur on a target determiner (or other adnominal) whose controller lacks overt plural marking, as in (14b&amp;c;). Second, ‘generalʼ *-na* may co-occur with either plural, *-mi* or *-pɨ*, as in (14c), depending on discourse context.
 
 <table class="unstyled">
 <tbody>
@@ -2950,32 +2950,32 @@ We also extend our thanks to the community members of San Antonio de Pintuyacu, 
 <table class="unstyled">
 <tbody>
 <tr>
-<td><img alt="Jaime Pacaya Inuma in 2002" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0214-B1E0-ABB3-0/ILDP02JPIauthor2.jpg" width="400"/></td>
-<td><img alt="Jaime Pacaya Inuma in 2019" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-A788-70EE-606D-0/ILDP19JPIauthor2.jpg" width="400"/></td>
+<td><img alt="Jaime Pacaya Inuma in 2002" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0214-B1E0-ABB3-0/ILDP02JPIauthor2.jpg" width="400"/></td>
+<td><img alt="Jaime Pacaya Inuma in 2019" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-A788-70EE-606D-0/ILDP19JPIauthor2.jpg" width="400"/></td>
 </tr>
 <tr>
 <td>Jaime Pacaya Inuma in 2002</td>
 <td>Jaime Pacaya Inuma in 2019</td>
 </tr>
 <tr>
-<td><img alt="Ema Llona Yareja in 2003" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B6B3-D4F8-60E1-0/ILDP03ELYauthor2.jpg" width="400"/></td>
-<td><img alt="Ema Llona Yareja in 2018" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-5CE6-2883-7CB7-0/ILDP18ELYauthor2.jpg" width="400"/></td>
+<td><img alt="Ema Llona Yareja in 2003" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B6B3-D4F8-60E1-0/ILDP03ELYauthor2.jpg" width="400"/></td>
+<td><img alt="Ema Llona Yareja in 2018" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-5CE6-2883-7CB7-0/ILDP18ELYauthor2.jpg" width="400"/></td>
 </tr>
 <tr>
 <td>Ema Llona Yareja in 2003</td>
 <td>Ema Llona Yareja in 2018</td>
 </tr>
 <tr>
-<td><img alt="Hermenegildo Díaz Cuyasa in 2005" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C88A-21F4-6A22-0/ildp05HDCauthor2.jpg" width="400"/></td>
-<td><img alt="Hermenegildo Díaz Cuyasa in 2016" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-CA22-C6D4-6653-0/ildp14HDCauthor2.jpg" width="400"/></td>
+<td><img alt="Hermenegildo Díaz Cuyasa in 2005" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C88A-21F4-6A22-0/ildp05HDCauthor2.jpg" width="400"/></td>
+<td><img alt="Hermenegildo Díaz Cuyasa in 2016" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-CA22-C6D4-6653-0/ildp14HDCauthor2.jpg" width="400"/></td>
 </tr>
 <tr>
 <td>Hermenegildo Díaz Cuyasa in 2005</td>
 <td>Hermenegildo Díaz Cuyasa in 2014; Hermico passed away in 2016</td>
 </tr>
 <tr>
-<td><img alt="Ligia Inuma Inuma in 2004" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-619E-7A35-86EA-0/ILDP04LIIauthor2.jpg" width="400"/></td>
-<td><img alt="Ligia Inuma Inuma in 2006" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-91A4-2C0F-C925-0/ILDP06LIIauthor2.jpg" width="400"/></td>
+<td><img alt="Ligia Inuma Inuma in 2004" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-619E-7A35-86EA-0/ILDP04LIIauthor2.jpg" width="400"/></td>
+<td><img alt="Ligia Inuma Inuma in 2006" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-91A4-2C0F-C925-0/ILDP06LIIauthor2.jpg" width="400"/></td>
 </tr>
 <tr>
 <td>Ligia Inuma Inuma in 2004</td>
@@ -3001,8 +3001,8 @@ Finally, we express our sincere thanks to all our other friends, family, and col
 <table class="unstyled">
 <tbody>
 <tr>
-<td><img alt="Lev, Ema, Jaime, and Hermico in 2015" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-97EE-DEC5-743D-0/ILDP15LDMELYJPIHDCauthor2.jpg" width="500"/></td>
-<td><img alt="Jaime, Chris, Ema, and Hermico in 2015" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8619-7591-70D2-0/ILDP15JPICMBELYHDCauthor2.jpg" width="500"/></td>
+<td><img alt="Lev, Ema, Jaime, and Hermico in 2015" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-97EE-DEC5-743D-0/ILDP15LDMELYJPIHDCauthor2.jpg" width="500"/></td>
+<td><img alt="Jaime, Chris, Ema, and Hermico in 2015" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8619-7591-70D2-0/ILDP15JPICMBELYHDCauthor2.jpg" width="500"/></td>
 </tr>
 <tr>
 <td>Lev, Ema, Jaime, and Hermico in 2015</td>
