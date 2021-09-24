@@ -27,5 +27,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "Michael, Lev and Beier, Christine. 2021. Iquito dictionary. Dictionaria 14. 1-4128. (Available online at https://dictionaria.clld.org/contributions/iquito, Accessed on 2021-09-24.) "
 }
